@@ -1,13 +1,10 @@
 # main links links
 main:
   - title: "Company"
-    url: /company/
+    url: /company
 
   - title: "Products"
-    url: /products/
+    url: /products
 
   - title: "Contact"
-    url: /contact/
-
-  - title: "External Link"
-    url: https://google.com
+    url: /contact
