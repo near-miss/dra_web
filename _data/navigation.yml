@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Company"
+    url: /company/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Products"
+    url: /products/
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "External Link"
+    url: https://google.com

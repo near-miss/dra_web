@@ -9,9 +9,9 @@
 locale                   : "en"
 title                    : "Near-Miss Management"
 title_separator          : "-"
-name                     : "NMM Manager"
+name                     : "Near-Miss"
 description              : "Discovering near-misses hidden in data."
-url                      : "https://near-miss.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://127.0.0.1:4000"  ## "https://near-miss.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -63,10 +63,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "NMM Manager"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Discovering near-misses hidden in data."
+  location         : "Philadelphia, PA"
   email            :
   uri              :
   bitbucket        :
@@ -206,3 +206,18 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Default post settings
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
