@@ -1,13 +1,16 @@
 # main links navigation
 main:
-  - title: "Company"
-    url: /company
-
   - title: "Products"
     url: /products
 
-  - title: "Resources"
-    url: /resources
+  - title: "Publications"
+    url: /publications
+
+  - title: "Stories"
+    url: /stories
+
+  - title: "Company"
+    url: /company
 
   - title: "Contact"
     url: /contact

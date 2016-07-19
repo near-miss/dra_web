@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "nearmissmgmt"
 facebook:
   username               :
   app_id                 :
@@ -63,12 +63,12 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "NMM Manager"
+  name             : "Near-Miss Management"
   avatar           : "bio-photo.jpg"
   bio              : "Discovering near-misses hidden in data."
   location         : "Philadelphia, PA"
   email            :
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -80,18 +80,17 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "ulku-oktem-59a9ba3"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "nearmissmgmt"
   vine             :
   weibo            :
   xing             :
   youtube          :
-
 
 # Reading Files
 include:

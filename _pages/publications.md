@@ -3,7 +3,7 @@ title: "Resources"
 layout: archive
 sitemap: true
 author_profile: false
-permalink: resources
+permalink: publications
 type: posts
 ---
 {% include base_path %}
