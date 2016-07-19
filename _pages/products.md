@@ -2,7 +2,7 @@
 title: "Products"
 layout: splash
 sitemap: true
-permalink: /products.html
+permalink: products
 excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis quis, officia cumque? Illo, soluta corporis inventore distinctio voluptas! Exercitationem aspernatur tenetur harum excepturi tempora qui similique, hic. Voluptatibus quos, voluptates!
 header: 
   overlay_image: https://mmistakes.github.io/minimal-mistakes/images/unsplash-gallery-image-1.jpg
@@ -14,8 +14,6 @@ header:
 
 ## Dynamic Risk Analyzer
 Rediscovering Process Risk Management
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 Dynamic Risk AnalyzerTM (DRA) is groundbreaking enterprise process risk assessment software solution, designed for plant management and engineers to assess the risk level of their plant operations on-demand or periodically. It uses patented methodologies that make use of all the process (online sensor) measurements as well as alarm data. The data is received automatically and is processed to extract crucial risk information that serve as leading indicators of potential shutdowns, accidents, incidents, and operational problems. Put simply, DRA equips the plant operations team with powerful information on the process risk levels that are identified through detection of hidden near-missesTM (which are also described as data-driven near-missesTM). These risk levels change constantly over time and DRA provides detailed information dynamically to address issues long before they result in incidents or operational problems.
 

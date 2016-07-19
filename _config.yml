@@ -11,7 +11,7 @@ title                    : "Near-Miss Management"
 title_separator          : "-"
 name                     : "Near-Miss"
 description              : "Discovering near-misses hidden in data."
-url                      : "https://near-miss.github.io" # "http://127.0.0.1:4000"  ## # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://127.0.0.1:4000"  ## "https://near-miss.github.io" #  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -208,7 +208,7 @@ compress_html:
     envs: development
 
 
-# Default settings
+# # Default settings
 defaults:
   # _posts
   - scope:
@@ -221,12 +221,12 @@ defaults:
       comments: true
       share: true
       related: true
-defaults:
- # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       author_profile: true
 

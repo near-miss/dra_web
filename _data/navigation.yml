@@ -1,4 +1,4 @@
-# main links links
+# main links navigation
 main:
   - title: "Company"
     url: /company
@@ -6,5 +6,9 @@ main:
   - title: "Products"
     url: /products
 
+  - title: "Resources"
+    url: /resources
+
   - title: "Contact"
     url: /contact
+
