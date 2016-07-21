@@ -1,9 +1,11 @@
 ---
 title: Don't Neglect Your Near-Misses
+date: 2015-06-01
 author: James E. Leemann Ph.D.
+publication: Industrial Safety & Hygiene News
+source: http://www.ishn.com/articles/101518-dont-neglect-your-near-misses
+keywords: near-miss reporting, risk assessments, safety reporting
 ---
-
-
 
 Use Big Data to find risk assessment gaps & biases
 Industrial Safety & Hygiene News
