@@ -1,5 +1,5 @@
 ---
-title: Improving Process Safety and Product Quality using Large Databases
+title: "Improving Process Safety and Product Quality using Large Databases"
 date: 2010-01-01
 author: Ankur Pariyani, Warren D. Seider, Ulku Oktem, and Masoud Soroush
 publication: 20th European Symposium on Computer Aided Process Engineering (ESCAPE)

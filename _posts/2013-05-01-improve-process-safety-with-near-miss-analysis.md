@@ -1,5 +1,5 @@
 ---  
-title: Improve Process Safety with Near-Miss Analysis
+title: "Improve Process Safety with Near-Miss Analysis"
 date: 2013-05-01
 author: Ulku Oktem, Warren Seider, Masoud Soroush, and Ankur Pariyani
 publication: On The Horizon Article, CEP Magazine, AIChE Publication

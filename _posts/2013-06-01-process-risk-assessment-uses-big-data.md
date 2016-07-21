@@ -1,5 +1,5 @@
 ---  
-title: Process Risk Assessment Uses Big Data
+title: "Process Risk Assessment Uses Big Data"
 date: 2013-06-01
 author: Ankur Pariyani, Ulku Oktem, and Deborah Grubbe
 publication: Control Engineering
