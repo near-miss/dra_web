@@ -23,9 +23,9 @@ type: posts
 
 <h2 class="archive__item-title">Ok, assuming I like the demo, what are be the next steps?</h2>
 <p class="archive__item-excerpt">Once you have seen the DRA demo, you have two options:</p>
-<p><ul>
-<ol><b>Install the software at your site</b> to allow you to review its usefulness and benefits. Cancel anytime, if you decide to not use the DRA, we will remove our software from your site and stop all support.   Based on our experiences, we estimate that the DRA technology will pay for itself many times over within a year’s time.</ol>
-<ol><b>Conduct an analysis of your own data through DRA.</b> If you would like to test the software capability using your own data and/or possibly a build a strong case for your internal review, we will be happy to conduct a test analysis using data of your choice. All you have to do is send us data. We will then schedule a separate demo based on your data 2 weeks later for your team.</ol></p>
+<p><ol>
+<li><b>Install the software at your site</b> to allow you to review its usefulness and benefits. Cancel anytime, if you decide to not use the DRA, we will remove our software from your site and stop all support. Based on our experiences, we estimate that the DRA technology will pay for itself many times over within a year’s time.</li>
+<li><b>Conduct an analysis of your own data through DRA.</b> If you would like to test the software capability using your own data and/or possibly a build a strong case for your internal review, we will be happy to conduct a test analysis using data of your choice. All you have to do is send us data. We will then schedule a separate demo based on your data 2 weeks later for your team.</li></ol></p>
 
 <h2 class="archive__item-title">How much maintenance is required? Our IT and Engineering teams are very busy and the last thing they need is maintenance and configuration of another software, no matter how useful it is?</h2>
 <p class="archive__item-excerpt">Based on our prior experiences, we can confirm that DRA is very easy to install and maintain, both from IT and Engineering perspectives.</p>
