@@ -15,3 +15,6 @@ main:
   - title: "Contact"
     url: /contact
 
+  - title: "FAQs"
+    url: /faqs
+
