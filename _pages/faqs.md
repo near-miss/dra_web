@@ -2,13 +2,15 @@
 title: "FAQs"
 layout: archive
 sitemap: true
-author_profile: false
+author_profile: true
 permalink: faqs
 type: posts
 ---
 
-Q.  What are the kinds of tags one can track in the DRA? 
-A.  One can track any tag that is monitored and recorded continuously in the plant operations.  These include temperatures, pressures, flow rates, level indicators, variables associated with rotating equipments, and even your quality variables, which are recorded less frequently.  We understand that the sampling frequency of these variables can vary from 1-sec to 1-day and that is not a problem. 
+<h3 class="archive__subtitle">Frequently Asked Questions</h3>
+
+<h2 class="archive__item-title">What are the kinds of tags one can track in the DRA?</h2>
+<p class="archive__item-excerpt"> One can track any tag that is monitored and recorded continuously in the plant operations.  These include temperatures, pressures, flow rates, level indicators, variables associated with rotating equipments, and even your quality variables, which are recorded less frequently.  We understand that the sampling frequency of these variables can vary from 1-sec to 1-day and that is not a problem.</p>
 
 
 Q.  I am worried about the data security.  I cannot let a 3rd party solution provider take our process data – that’s the most confidential thing to us.
