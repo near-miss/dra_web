@@ -10,8 +10,8 @@
 |   ├── Stories
 |   ├── FAQs
 |   └── How it works
-├── Media
-|   ├── News
+├── News
+|   ├── Media
 |   ├── Events
 |   └── Publications
 ├── Company
