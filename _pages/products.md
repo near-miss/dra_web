@@ -40,11 +40,24 @@ feature_row:
 
 ---
 
-# Benefits and Features
-
-Disruptive. Powerful. A Platform that does it ALL. 
+Disruptive. Powerful. A Platform that does it ALL.
+{: .text-center}
 
 **Dynamic Risk Analyzer&trade; (DRA)** has proven to improve on-stream efficiency in industrial plant operations.  It delivers actionable, early indicators of potential process failures – typically days and weeks before the alarms go off.  
 So, you can plan predictive maintenance and achieve increased safety and bottom line. 
 
+
+# Features
+
+
 {% include feature_row %}
+
+
+# How it works
+
+What makes us unique is our distinctive, patented approach of identifying hidden near-misses&trade; that are precursors of potential process failures.   
+
+DRA receives data automatically via your existing historian, OPC, or similar systems. The  proprietary, hidden near-miss&trade; technology is designed to manage changes in process over time, updating risk estimates dynamically.  Thus, the latest risk insights are available to all levels of the operations team, including  managers, supervisors, engineers, operators, and maintenance team.  Its easy-to-use web interface, and powerful communication and reporting features, provide transparent and effective risk information exchange among the plant personnel – making DRA a groundbreaking tool for proactive risk detection, predictive maintenance, and effective communication.
+
+
+![how-it-works](/images/how-it-works.png){: .align-center}

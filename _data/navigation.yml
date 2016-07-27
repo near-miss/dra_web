@@ -6,18 +6,11 @@ main:
   - title: "Stories"
     url: /stories
 
-  - title: "How It Works"
-    url: /how-it-works
-
   - title: "Newsroom"
-    url: /news
+    url: /newsroom
 
   - title: "Company"
     url: /company
 
   - title: "Contact"
     url: /contact
-
-  - title: "FAQs"
-    url: /faqs
-
