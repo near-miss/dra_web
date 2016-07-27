@@ -2,12 +2,21 @@
 main:
   - title: "Products"
     url: /products
-
-  - title: "Stories"
-    url: /stories
+    children:
+      - title: "Stories"
+        url: /stories/
+      - title: "FAQs"
+        url: /faqs/
 
   - title: "Newsroom"
     url: /newsroom
+    children:
+      - title: "Media"
+        url: /newsroom/#media
+      - title: "Events"
+        url: /newsroom/#events
+      - title: "Publications"
+        url: /newsroom/#publications
 
   - title: "Company"
     url: /company
