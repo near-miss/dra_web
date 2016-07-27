@@ -14,7 +14,7 @@ header:
   cta_url: "#"
 
 feature_row:
-  - image_path: http://placehold.it/500x500
+  - image_path: features-00.png
     alt: "Advanced Risk Detection"
     title: "Advanced Risk Detection"
     excerpt: "Transform how you assess process risks in your operations. DRA provides critical insights on new risks and underlying drivers. So you can focus on solutions, not hunting for problems."
