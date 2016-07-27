@@ -39,6 +39,10 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
+<!-- meta robots -->
+<meta name="robots" content="noindex">
+
+
 <meta property="og:locale" content="{{ site.locale }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
