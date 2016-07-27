@@ -8,7 +8,7 @@ author_profile: true
 excerpt: The Dynamic Risk Analyzer&trade; (DRA) is a first-of-its-kind advanced warning software platform that identifies potential failures at initiation stage – enabling operating personnel to take proactive corrective actions and prevent losses.
 
 header: 
-  overlay_image: https://mmistakes.github.io/minimal-mistakes/images/unsplash-gallery-image-3.jpg
+  overlay_image: splash-02.jpeg
   overlay_filter: 0.3
   cta_label: "Request a Demo"
   cta_url: "#"
