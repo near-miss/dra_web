@@ -10,7 +10,7 @@
 |   ├── Stories
 |   ├── FAQs
 |   └── How it works
-├── News
+├── Newsroom
 |   ├── Media
 |   ├── Events
 |   └── Publications

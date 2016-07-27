@@ -1,9 +1,9 @@
 ---
-title: "Resources"
+title: "Newsroom"
 layout: archive
 sitemap: true
 author_profile: false
-permalink: publications
+permalink: newsroom
 type: posts
 ---
 {% include base_path %}

@@ -3,11 +3,14 @@ main:
   - title: "Products"
     url: /products
 
-  - title: "Publications"
-    url: /publications
-
   - title: "Stories"
     url: /stories
+
+  - title: "How It Works"
+    url: /how-it-works
+
+  - title: "Newsroom"
+    url: /news
 
   - title: "Company"
     url: /company
