@@ -1,13 +1,11 @@
 ---
-title: "Newsroom"
+title: "Stories Test"
 layout: archive
-permalink: newsroom
+permalink: stories-test
 ---
-
 
 {% include base_path %}
 
-<h3 class="archive__subtitle">Publications</h3>
 
 {% for post in site.posts %}
   {% include archive-single.html %}

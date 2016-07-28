@@ -1,8 +1,7 @@
 ---
-layout: splash
 title: "Stories"
-permalink: /stories/
-author_profile: false
+layout: splash
+permalink: stories
 ---
 
 {% include base_path %}
