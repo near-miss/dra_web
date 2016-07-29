@@ -1,5 +1,5 @@
 ---
-title: "Newsroom"
+title: "Newsroom by Category"
 layout: archive
 permalink: newsroom-category
 ---
