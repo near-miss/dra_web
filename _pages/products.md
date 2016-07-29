@@ -1,9 +1,9 @@
 ---
 title: "Risk Detection of the Future"
-layout: archive
+layout: splash
 sitemap: true
 permalink: products
-author_profile: true
+author_profile: false
 
 excerpt: The Dynamic Risk Analyzer&trade; (DRA) is a first-of-its-kind advanced warning software platform that identifies potential failures at initiation stage – enabling operating personnel to take proactive corrective actions and prevent losses.
 
@@ -58,7 +58,7 @@ So, you can plan predictive maintenance and achieve increased safety and bottom 
 
 What makes us unique is our distinctive, patented approach of identifying hidden near-misses&trade; that are precursors of potential process failures.   
 
-DRA receives data automatically via your existing historian, OPC, or similar systems. The  proprietary, hidden near-miss&trade; technology is designed to manage changes in process over time, updating risk estimates dynamically.  Thus, the latest risk insights are available to all levels of the operations team, including  managers, supervisors, engineers, operators, and maintenance team.  Its easy-to-use web interface, and powerful communication and reporting features, provide transparent and effective risk information exchange among the plant personnel – making DRA a groundbreaking tool for proactive risk detection, predictive maintenance, and effective communication.
+DRA receives data automatically via your existing historian, OPC, or similar systems. The  proprietary, hidden near-miss&trade; technology is designed to manage changes in process over time, updating risk estimates dynamically. Thus, the latest risk insights are available to all levels of the operations team, including managers, supervisors, engineers, operators, and maintenance team. Its easy-to-use web interface, and powerful communication and reporting features, provide transparent and effective risk information exchange among the plant personnel – making DRA a groundbreaking tool for proactive risk detection, predictive maintenance, and effective communication.
 
 
 ![how-it-works](/images/how-it-works.png){: .align-center}
