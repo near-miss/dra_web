@@ -1,9 +1,20 @@
 // custom.scss   hacks and tests
 
 .archive__item {
-  display: none;
+  // display: none;
 }
 
-.is-this-even-working {
-  background-color: red;
+.fstraat {
+  color: red !important;
+  font-size: 10rem;
+}
+
+
+// Products Page
+
+.archive__item-teaser {
+
+  img {
+    width: 50%;
+  }
 }
