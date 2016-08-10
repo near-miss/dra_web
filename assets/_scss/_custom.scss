@@ -1,12 +1,39 @@
 // custom.scss   hacks and tests
 
-.archive__item {
-  // display: none;
+
+.page__hero--overlay {
+  text-align: center;
 }
 
-.fstraat {
-  color: red !important;
-  font-size: 10rem;
+
+.page__title {
+  font-weight: 100;
+  letter-spacing: -0.61px;
+  line-height: 87px;
+  font-size: 74px;
+  font-size: 3.444rem;
+}
+
+.page__lead {
+  font-family: OpenSans;
+  font-size: 25px;
+  margin-top: -20px;
+  max-width: 100% !important;
+  margin: 20px 10%;
+}
+
+
+.btn--light-outline {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+
+
+
+.archive__item-title {
+    text-transform: uppercase;
+    font-size: 1rem;
 }
 
 

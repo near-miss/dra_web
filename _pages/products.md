@@ -5,10 +5,10 @@ sitemap: true
 permalink: products
 author_profile: false
 
-excerpt: The Dynamic Risk Analyzer&trade; (DRA) is a first-of-its-kind advanced warning software platform that identifies potential failures at initiation stage – enabling operating personnel to take proactive corrective actions and prevent losses.
+excerpt: The Dynamic Risk Analyzer™ (DRA) is a first-of-its-kind advanced warning software platform that identifies potential failures at initiation stage – enabling operating personnel to take proactive corrective actions and prevent losses.
 
 header: 
-  overlay_image: splash-02.jpeg
+  overlay_image: http://www.colorcombos.com/images/colors/999999.png
   overlay_filter: 0.3
   cta_label: "Request a Demo"
   cta_url: "#"
@@ -41,14 +41,14 @@ feature_row:
 
 ---
 
-> Disruptive. Powerful. A Platform that does it ALL.
+> Disruptive. Powerful. One platform that does it ALL.
 {: .text-center}
 
-**Dynamic Risk Analyzer&trade; (DRA)** has proven to improve on-stream efficiency in industrial plant operations.  It delivers actionable, early indicators of potential process failures – typically days and weeks before the alarms go off.  
-So, you can plan predictive maintenance and achieve increased safety and bottom line. 
 
 
-# Features
+**Dynamic Risk Analyzer&trade; (DRA)** has proven to improve on-stream efficiency in industrial plant operations. It delivers actionable, early indicators of potential process failures – typically days and weeks before the alarms go off.
+So, you can plan predictive maintenance and achieve increased safety and bottom line.
+{: .text-center}
 
 
 {% include feature_row %}
@@ -56,9 +56,14 @@ So, you can plan predictive maintenance and achieve increased safety and bottom 
 
 # How it works
 
-What makes us unique is our distinctive, patented approach of identifying hidden near-misses&trade; that are precursors of potential process failures.   
+Discover hidden near-misses™ from the entire spectrum of process data. 
+{: .text-center}
 
-DRA receives data automatically via your existing historian, OPC, or similar systems. The  proprietary, hidden near-miss&trade; technology is designed to manage changes in process over time, updating risk estimates dynamically. Thus, the latest risk insights are available to all levels of the operations team, including managers, supervisors, engineers, operators, and maintenance team. Its easy-to-use web interface, and powerful communication and reporting features, provide transparent and effective risk information exchange among the plant personnel – making DRA a groundbreaking tool for proactive risk detection, predictive maintenance, and effective communication.
+
+What makes us unique is our distinctive, patented approach of identifying hidden near-misses™ that are precursors of potential process failures. 
+
+DRA receives data automatically via your existing historian, OPC, or similar systems. All standard data sources (such as OSIsoft Pi, Aspen IP21, Honeywell PHD, GE Proficy, etc.) are supported. With DRA, information on developing risks is available to all levels of your operations team, including managers, supervisors, engineers, operators, and maintenance team.
+Result: transparency, proactive risk management, and effective communication.
 
 
 ![how-it-works](/images/how-it-works.png){: .align-center}
