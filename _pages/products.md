@@ -54,25 +54,76 @@ So, you can plan predictive maintenance and achieve increased safety and bottom 
 {% include feature_row %}
 
 
-# How it works
+## How it works
 
-Discover hidden near-misses™ from the entire spectrum of process data. 
+Discover **hidden near-misses**™ from the entire spectrum of process data. 
 {: .text-center}
 
 
-What makes us unique is our distinctive, patented approach of identifying hidden near-misses™ that are precursors of potential process failures. 
+What makes us unique is our distinctive, patented approach of identifying **hidden near-misses**™ that are precursors of potential process failures. 
 
 DRA receives data automatically via your existing historian, OPC, or similar systems. All standard data sources (such as OSIsoft Pi, Aspen IP21, Honeywell PHD, GE Proficy, etc.) are supported. With DRA, information on developing risks is available to all levels of your operations team, including managers, supervisors, engineers, operators, and maintenance team.
-Result: transparency, proactive risk management, and effective communication.
+
+Result: **transparency**, **proactive risk management**, and **effective communication**.
 
 
 ![how-it-works](/images/how-it-works.png){: .align-center}
 
 
+[Read the FAQs](/faqs){: .btn .btn--inverse .btn--large}
+{: .text-center}
 
 
-[Read the FAQs](/faqs){: .btn .btn--inverse}
+[Success Stories](/faqs){: .btn .btn--inverse .btn--large}
+{: .text-center}
+
+
+
+
+## Why people love DRA
+
+DRA told us right at the outset when we had started pushing the limits of the unit.
+
+Operations Manager
+
+Oil and Gas Co.
+
+
+
+We are definitely doing more adjustments, regularly, since we started using DRA.
+
+Operations Supervisor
+
+Oil and Gas Co.
+
+
+
+DRA points me to things I wouldn’t have noticed otherwise
+
+Process Engineer
+
+Oil and Gas Co.
+
+
+
+
+
+
+
+
+## Try DRA
+
+<form>
+  <input type="text" name="name" placeholder="Company Name">
+  <input type="email" name="email" placeholder="Email Address">
+
+</form>
 
 [Request a Demo](/contact){: .btn .btn--info .btn--large}
-{: .text-center}
+{: .align-center}
+
+
+
+
+
 
