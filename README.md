@@ -6,10 +6,10 @@
 
 ```
 .
-├── Product
+├── Products
 ├── Newsroom
 ├── Company
-└── Contact
+── Contact
 
 ```
 
@@ -18,8 +18,8 @@
 
 ```
 .
-├── Product
-|   ├── Stories
+├── Products
+|   ├── Success Stories
 |   ├── FAQs
 |   └── How it works
 ├── Newsroom
@@ -34,14 +34,12 @@
 |   ├── Terms of Use
 |   └── Privacy Policy
 ├── Contact
-|   ├── 
-
-1800 John F Kennedy Blvd., Suite 300, Philadelphia, PA 19103
-
-1800 JFK Blvd. Suite 300
-Philadelphia, PA 19103
-267-603-2378
-info@nearmissmgmt.com
+|   ├── 1800 JFK Blvd. Suite 300
+|   |   Philadelphia, PA 19103
+|   ├── 267-603-2378
+|   ├── info@nearmissmgmt.com
+|   ├── twitter.com/nearmissmgmt
+└───└── linkedin.com/company/near-miss-management
 
 ```
 
