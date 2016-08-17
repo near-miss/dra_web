@@ -1,15 +1,17 @@
 ---
 title: "Newsroom"
-layout: archive
+layout: splash
 permalink: newsroom
 ---
-
 
 {% include base_path %}
 
 
-<h3 class="archive__subtitle">Publications</h3>
+<h1 class="page__title">Learn. Explore. Stay Connected.</h1>
+{: .text-center}
 
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="grid__wrapper">
+  {% for post in site.posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
