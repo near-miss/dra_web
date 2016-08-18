@@ -32,8 +32,8 @@
 
 
 .archive__item-title {
-    text-transform: uppercase;
-    font-size: 1rem;
+  text-transform: uppercase;
+  font-size: 1rem;
 }
 
 
@@ -49,10 +49,85 @@
 
 
 // Footer
+// ------------------------------
 
 .page__footer {
   background-color: #4A4A4A;
 }
 
+.page__footer-info {
+  font-size: $type-size-6;
+  float: left;
+  width: span(3);
+  margin-right: gutter(); 
+
+
+}
+
+.page__footer-nav {
+  float: right;
+  width: span(9);
+
+  // background-color: red;
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  li {
+    color: #83A3B6;
+    margin-bottom: 0px;
+  }
+
+  .nav-item {
+    float: left;
+    // width: span(2);
+    margin-left: 5rem;
+  }
+
+
+  .nav-heading {
+    text-transform: uppercase;
+    color: #dadada;
+
+    a {
+      display: block;
+    }
+  }
+
+  .nav-contact {
+    li {
+      font-size: 0.85rem;
+    }
+  }
+
+  .footer-social {
+    display: inline;
+    font-size: 1.7rem;
+    opacity: 0.7;
+
+    i {
+      color: #83A3B6;
+      position: relative;
+      left: -5px;
+    }
+  }
+
+}
+
+.page__footer-copyright { 
+  width: span(12);
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+}
+
+
+.page__footer-legal {
+  text-align: center;
+  font-size: $type-size-6;
+  padding-top: 10px;
+}
 
 
