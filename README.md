@@ -31,6 +31,12 @@ Start start (dev environment)
 `bundle exec jekyll serve --config _config.yml,_config.dev.yml`
 
 
+Generate stylesheets
+--------------------
+
+`npm run scss`
+
+
 ---
 
 ## Main Navigation
