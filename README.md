@@ -2,6 +2,35 @@
 
 
 
+Installation
+------------
+
+Dependencies 
+
+`bundle install`
+
+`bundle update`
+
+
+Jekyll
+
+`sudo gem install jekyll`
+
+
+Running the Server
+------------------
+
+
+`bundle exec jekyll serve`
+
+
+Start start (dev environment)
+
+`bundle exec jekyll serve --config _config.yml,_config.dev.yml`
+
+
+---
+
 ## Main Navigation
 
 ```
