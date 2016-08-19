@@ -1,6 +1,20 @@
 // custom.scss   hacks and tests
 
 
+// Base
+// ------------------------------
+
+.btn--light-outline {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+
+
+
+// Page
+// ------------------------------
+
 .page__hero--overlay {
   text-align: center;
 }
@@ -23,12 +37,23 @@
 }
 
 
-.btn--light-outline {
-  text-transform: uppercase;
-  font-weight: 600;
+
+section {
+
+  h2 {
+    color: #5D7888;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: $type-size-3;
+    // border-bottom: none;
+    font-weight: 600;
+  }
 }
 
 
+.page__actions {
+
+}
 
 
 .archive__item-title {
@@ -46,6 +71,45 @@
   }
 }
 
+
+// Testimonials
+
+.section__testimonials {
+  @include push(2 of 7);
+}
+
+.testimonial {
+  width: 380px;
+  
+  margin-bottom: 1.6rem;
+
+  &:nth-child(even) {
+   // color: red;
+   // padding-left: 10rem;
+ }
+
+ &:before {
+  font-family: FontAwesome;
+  content: '\f10d';
+  color: #E6EAED;
+  font-size: 3rem;
+  position: relative;
+  top: 54px;
+  left: -56px;
+}
+}
+
+
+.testimonial__role {
+  text-style: italic;
+  color: #B0B0B0;
+}
+
+.testimonial__source {
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  color: #B0B0B0;
+}
 
 
 // Footer
@@ -68,7 +132,6 @@
   float: right;
   width: span(9);
 
-  // background-color: red;
 
   ul {
     list-style: none;
