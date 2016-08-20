@@ -4,6 +4,25 @@
 // Base
 // ------------------------------
 
+body {
+  background-color: #5D7888;
+  // color: darken(#83A3B6,25%);
+  // color: #ffffff;
+  color: #bec9cf;
+  border-color: #bec9cf;
+}
+
+#main {
+  padding-bottom: 4rem;
+}
+
+
+
+.masthead {
+  background-color: #ffffff;
+}
+
+
 .btn--light-outline {
   text-transform: uppercase;
   font-weight: 600;
@@ -12,11 +31,20 @@
 
 
 
+// Header
+// ------------------------------
+
+// li.masthead__menu-item.masthead__menu-item--lg {
+//   background-image: url(../images/logo.png) !important;
+// }
+
+
 // Page
 // ------------------------------
 
 .page__hero--overlay {
   text-align: center;
+  margin-bottom: 3rem;
 }
 
 
@@ -36,16 +64,36 @@
   margin: 20px 10%;
 }
 
+.page__content {
+  h2 {
+    border-bottom: none;
+  }
+}
+
+.intro {
+  text-align: center;
+}
+
+
+// Feature
+// ----------------------------
+.feature__wrapper {
+  padding-top: 3rem;
+  padding-top: 2rem;
+  border-bottom: none;
+}
 
 
 section {
 
   h2 {
-    color: #5D7888;
+    // color: #5D7888;
+    // color: #dadada;
+    // color: #FBBD49;
+    opacity: 0.8;
     text-transform: uppercase;
     text-align: center;
     font-size: $type-size-3;
-    // border-bottom: none;
     font-weight: 600;
   }
 }
@@ -117,6 +165,7 @@ section {
 
 .page__footer {
   background-color: #4A4A4A;
+  margin-top: 0px;
 }
 
 .page__footer-info {
