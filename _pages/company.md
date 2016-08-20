@@ -7,10 +7,10 @@ permalink: company
 excerpt: A new era in process risk management is here—through pioneering techniques and innovative solutions based on the concept of hidden near-misses.
 
 header: 
-  overlay_image: https://mmistakes.github.io/minimal-mistakes/images/unsplash-gallery-image-4.jpg
+  overlay_image: splash-01.jpg
   overlay_filter: 0.45
   cta_label: "Request a Demo"
-  cta_url: "#"
+  cta_url: "/contact"
 
 ---
 
@@ -35,7 +35,7 @@ header:
 {% endfor %}
 
 
-<a href="#site-nav" class="btn btn--inverse align-right">Back to Top</a>
+<a href="#site-nav" class="btn btn--inverse align-right">Return to Top</a>
 <br>
 
 
@@ -48,7 +48,7 @@ header:
 {% endfor %}
 
 
-<a href="#site-nav" class="btn btn--inverse align-right">Back to Top</a>
+<a href="#site-nav" class="btn btn--inverse align-right">Return to Top</a>
 <br>
 
 
@@ -61,6 +61,6 @@ header:
 {% endfor %}
 
 
-<a href="#site-nav" class="btn btn--inverse align-right">Back to Top</a>
+<a href="#site-nav" class="btn btn--inverse align-right">Return to Top</a>
 <br>
 
