@@ -38,6 +38,18 @@ body {
 // }
 
 
+.masthead__menu-item.active a {
+  color: #FBBD49;
+  font-weight: 600;
+  border-bottom: 4px solid #FBBD49;
+  padding-top: 8px;
+  padding-bottom: 6px;
+
+  &:before {
+    background-color: #ffffff;
+  }
+}
+
 // Page
 // ------------------------------
 
