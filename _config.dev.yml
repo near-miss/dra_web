@@ -207,8 +207,24 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  team:
+    output: true
+    permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
+
 # # Default settings
 defaults:
+  # _team
+  - scope:
+      path: ""
+      type: team
+    values:
+      layout: single
+      author_profile: false
   # _posts
   - scope:
       path: ""
@@ -222,20 +238,6 @@ defaults:
       related: true
 
 
-# Collections
-collections:
-  team:
-    output: true
-    permalink: /:collection/:path/
-
-defaults:
-  # _team
-  - scope:
-      path: ""
-      type: team
-    values:
-      layout: single
-      author_profile: false
 
 
 
