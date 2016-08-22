@@ -50,6 +50,28 @@ body {
   }
 }
 
+
+
+// Hero
+// ------------------------------
+
+.page__hero--overlay {
+  height: 90vh;
+
+  .wrapper {
+    padding-top: 20%;
+  }
+
+  .page__title {
+    padding-bottom: 3rem;
+  }
+
+  .page__lead {
+    padding-bottom: 2rem;
+  }
+}
+
+
 // Page
 // ------------------------------
 
