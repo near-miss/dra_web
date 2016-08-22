@@ -12,7 +12,7 @@ body {
 }
 
 #main {
-  padding-bottom: 4rem;
+  // padding-bottom: 4rem;
 }
 
 
@@ -57,9 +57,14 @@ body {
 
 .page__hero--overlay {
   height: 90vh;
+  // display: table;
+  // overflow: hidden;
 
   .wrapper {
-    padding-top: 20%;
+    // padding-top: 20%;
+    // display: table-cell;
+    // vertical-align: middle;
+    padding-top: 10vh;
   }
 
   .page__title {
@@ -156,13 +161,16 @@ section {
 // Testimonials
 
 .section__testimonials {
-  @include push(2 of 7);
+  @include push(2 of 12);
 }
 
 .testimonial {
-  width: 380px;
+  width: 50%;
+  display: inline-block;
+  // width: 380px;
+  // width: push(6 of 6);
   
-  margin-bottom: 1.6rem;
+  // margin-bottom: 1.6rem;
 
   &:nth-child(even) {
    // color: red;
