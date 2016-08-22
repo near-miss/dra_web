@@ -1,5 +1,5 @@
 ---
-title: "We Are Near-Miss Management"
+title: "A new era in process risk management is here"
 layout: archive
 author_profile: true
 permalink: company
