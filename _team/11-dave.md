@@ -1,8 +1,6 @@
 ---
 name: Dave
 full-name: Dave Eherts, PhD
-title: NA
-email: mail@nearmissmgmt.com
 org: Advisory Board
 ---
 

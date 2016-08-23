@@ -1,7 +1,7 @@
 ---
 name: Deborah
 full-name: Deborah L. Grubbe, PE, CEng.
-title: Chief Marketing Officer
+role: Chief Marketing Officer
 email: grubbe@nearmissmgmt.com
 org: Leadership Team
 ---

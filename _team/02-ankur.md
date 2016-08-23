@@ -1,7 +1,7 @@
 ---
 name: Ankur
 full-name: Ankur Pariyani, PhD
-title: Co-Founder, Chief Innovation Officer
+role: Co-Founder, Chief Innovation Officer
 email: pariyani@nearmissmgmt.com
 org: Leadership Team
 ---

@@ -1,7 +1,7 @@
 ---
 name: Ulku
 full-name: Ulku Oktem, PhD
-title: Co-Founder, Chief Executive Officer
+role: Co-Founder, Chief Executive Officer
 email: oktem@nearmissmgmt.com
 org: Leadership Team
 ---

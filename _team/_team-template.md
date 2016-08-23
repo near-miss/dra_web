@@ -1,7 +1,7 @@
 ---
 name: Name
 full-name: Name Last
-title: Title
+role: Title
 email: mail@nearmissmgmt.com
 org: org-name
 ---

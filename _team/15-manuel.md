@@ -1,8 +1,6 @@
 ---
 name: Manuel
 full-name: Manuel Terranova
-title: NA
-email: mail@nearmissmgmt.com
 org: Advisory Board
 ---
 

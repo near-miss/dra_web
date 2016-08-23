@@ -1,8 +1,6 @@
 ---
 name: Avi
 full-name: Avi D. Eden
-title: NA
-email: mail@nearmissmgmt.com
 org: Advisory Board
 ---
   

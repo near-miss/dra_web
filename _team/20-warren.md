@@ -1,8 +1,6 @@
 ---
 name: Warren
 full-name: Prof. Warren D. Seider
-title: NA
-email: mail@nearmissmgmt.com
 org: Academic Advisors
 ---
   
