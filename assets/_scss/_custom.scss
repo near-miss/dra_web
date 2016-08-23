@@ -236,6 +236,23 @@ section {
     margin-bottom: 0;
   }
 
+  h3 {
+    font-family: $sans-serif;
+    font-size: $type-size-3;
+    font-weight: 400;
+    margin-top: 1rem;
+    margin-bottom: 0.25rem;
+  }
+
+  em {
+    display: block;
+    padding-bottom: 0.25rem;
+    text-transform: uppercase;
+    font-style: normal;
+    font-size: $type-size-5;
+    color: #FBBD49;
+  }
+
   img {
     min-width: 280px;
     border: 1px solid #F0F0F0;
