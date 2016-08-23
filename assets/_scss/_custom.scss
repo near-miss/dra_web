@@ -92,7 +92,7 @@ body {
 
 
 .page__title {
-  $type-size-8;
+  font-size: $type-size-1;
   font-weight: 200;
   letter-spacing: -0.61px;
   line-height: 3rem;
@@ -135,11 +135,12 @@ section {
     // color: #5D7888;
     // color: #dadada;
     // color: #FBBD49;
-    opacity: 0.8;
-    // text-transform: uppercase;
-    text-align: center;
+    // opacity: 0.8;
     // font-size: $type-size-3;
-    font-weight: 600;
+    // text-transform: uppercase;
+    // text-align: center;
+    // font-size: $type-size-3;
+    // font-weight: 600;
   }
 }
 
