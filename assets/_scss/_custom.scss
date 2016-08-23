@@ -200,21 +200,24 @@ section {
   color: #B0B0B0;
 }
 
+
+
 // Team
 
 .team__grid {
-  // padding: span(1 of 8);
-
+ @include clearfix;
 }
 
 
 .team__item {
-  // @include gallery(2 of 6);
-  // margin-bottom: gutter(6);
+  @include gallery(6 of 12);
+  padding-left: span(1 of 12);
+  margin-bottom: gutter(6);
 
-  // &:nth-last-child(-n + 3) {
-  //   margin-bottom: 0;
-  // }
+
+  &:nth-last-child(-n + 3) {
+    margin-bottom: 0;
+  }
 }
 
 

@@ -27,7 +27,11 @@ header:
 
 {% include group-by-array collection=site.team field="org" %}
 
+<h2 id="leadership-team" class="archive__subtitle">Leadership Team</h2>
+<br>
+
 <div class="team__grid">
+
 {% for category in group_names %}
 
   {% if category == "Leadership Team" %}
@@ -37,10 +41,13 @@ header:
 {% endfor %}
 </div>
 
-<a href="#site-nav" class="btn btn--inverse align-right">Return to Top</a>
+<a href="#main" class="btn btn--inverse align-right">Return to Top</a>
+<br><br>
+
+<h2 id="advisory-board" class="archive__subtitle">Advisory Board</h2>
 <br>
 
-
+<div class="team__grid">
 {% for category in group_names %}
 
   {% if category == "Advisory Board" %}
@@ -48,12 +55,14 @@ header:
   {% endif %}
   
 {% endfor %}
+</div>
 
+<a href="#main" class="btn btn--inverse align-right">Return to Top</a>
+<br><br>
 
-<a href="#site-nav" class="btn btn--inverse align-right">Return to Top</a>
+<h2 id="academic-advisors" class="archive__subtitle">Academic Advisors</h2>
 <br>
-
-
+<div class="team__grid">
 {% for category in group_names %}
 
   {% if category == "Academic Advisors" %}
@@ -61,8 +70,8 @@ header:
   {% endif %}
     
 {% endfor %}
+</div>
 
-
-<a href="#site-nav" class="btn btn--inverse align-right">Return to Top</a>
-<br>
+<a href="#main" class="btn btn--inverse align-right">Return to Top</a>
+<br><br>
 
