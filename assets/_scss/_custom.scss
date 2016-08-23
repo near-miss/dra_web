@@ -83,20 +83,27 @@ body {
 .page__hero--overlay {
   text-align: center;
   margin-bottom: 3rem;
+
+
+  .page__title {
+    font-weight: 600;
+  }
 }
 
 
 .page__title {
-  font-weight: 600;
+  $type-size-8;
+  font-weight: 200;
   letter-spacing: -0.61px;
   line-height: 3rem;
-  font-size: 74px;
-  font-size: 3.444rem;
+
+  // font-size: 74px;
+  // font-size: 3.444rem;
 }
 
 .page__lead {
   font-weight: 200;
-  font-size: 25px;
+  // font-size: 25px;
   margin-top: -20px;
   max-width: 100% !important;
   margin: 20px 10%;
@@ -129,7 +136,7 @@ section {
     // color: #dadada;
     // color: #FBBD49;
     opacity: 0.8;
-    text-transform: uppercase;
+    // text-transform: uppercase;
     text-align: center;
     font-size: $type-size-3;
     font-weight: 600;
@@ -143,8 +150,8 @@ section {
 
 
 .archive__item-title {
-  text-transform: uppercase;
-  font-size: 1rem;
+  // text-transform: uppercase;
+  // font-size: 1rem;
 }
 
 
@@ -196,7 +203,7 @@ section {
 
 .testimonial__source {
   text-transform: uppercase;
-  font-size: 0.85rem;
+  // font-size: 0.85rem;
   color: #B0B0B0;
 }
 
