@@ -1,10 +1,10 @@
 ---
-title: "A new era in process risk management is here"
+title: "A New Era of Process Risk Management is Here"
 layout: archive
 author_profile: true
 permalink: company
 
-excerpt: A new era in process risk management is here—through pioneering techniques and innovative solutions based on the concept of hidden near-misses.
+excerpt: We are a one-of-its-kind enterprise risk detection company, helping our customers improve their safety performance, increase bottom lines, and foster sustainability by addressing process risks in plant operations.  Powered by our expertise in risk management and large-scale machine learning, our unique approach has not only earned several patents but also a reputation as a disruptive technology that provides 'peripheral vision' to detect and address hidden risks.
 
 header: 
   overlay_image: splash-01.jpg
