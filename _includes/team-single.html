@@ -4,7 +4,7 @@
 
 {% for post in posts %}
 <div class="team__item">
-<img src="images/team/{{ post.name }}.jpg"> 
+<img src="{{ base.url }}/images/team/{{ post.name }}.jpg"> 
 <h3>{{ post.full-name }}</h3>
 {% if post.role %}<em>{{ post.role }}</em>{% endif %}
 <p>{{ post.content }}
