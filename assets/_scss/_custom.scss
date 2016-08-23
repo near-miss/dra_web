@@ -214,7 +214,9 @@ section {
 
 
 
-// Team
+// Company - Team
+// ------------------
+
 
 .team__grid {
  @include clearfix;
@@ -222,7 +224,8 @@ section {
 
 
 .team__item {
-  @include gallery(6 of 12);
+  // @include gallery(6 of 12);
+  width: span(12);
   padding-left: span(0.5 of 12);
   padding-right: span(0.5 of 12);
   margin-bottom: gutter(6);
@@ -250,6 +253,18 @@ section {
     }
   }
 
+}
+
+
+
+// Desktop
+// -----------------------
+
+@media only screen and (min-width: 600px) {
+
+  .team__item { 
+    @include gallery(6 of 12);
+  }
 }
 
 
