@@ -1,7 +1,7 @@
 ---
 name: James
 full-name: James Porter
-title: Title
+title: NA
 email: mail@nearmissmgmt.com
 org: Advisory Board
 ---

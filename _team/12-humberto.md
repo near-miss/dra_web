@@ -1,7 +1,7 @@
 ---
 name: Humberto
 full-name: Humberto Vainieri, PhD
-title: Title
+title: NA
 email: mail@nearmissmgmt.com
 org: Advisory Board
 ---

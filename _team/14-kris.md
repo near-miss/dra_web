@@ -1,7 +1,7 @@
 ---
 name: Kris
 full-name: Kris Ramanadhan, PhD
-title: Title
+title: NA
 email: mail@nearmissmgmt.com
 org: Advisory Board
 ---

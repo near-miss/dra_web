@@ -8,6 +8,9 @@ main:
       - title: "FAQs"
         url: /faqs/
 
+  - title: "Company"
+    url: /company
+
   - title: "Newsroom"
     url: /newsroom
     children:
@@ -17,9 +20,6 @@ main:
         url: /newsroom/#events
       - title: "Publications"
         url: /newsroom/#publications
-
-  - title: "Company"
-    url: /company
 
   - title: "Contact"
     url: /contact

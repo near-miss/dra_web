@@ -1,7 +1,7 @@
 ---
 name: Masoud
 full-name: Prof. Masoud Soroush
-title: Title
+title: NA
 email: mail@nearmissmgmt.com
 org: Academic Advisors
 ---

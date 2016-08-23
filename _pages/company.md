@@ -1,7 +1,7 @@
 ---
 title: "A New Era of Process Risk Management is Here"
-layout: archive
-author_profile: true
+layout: splash
+author_profile: false
 permalink: company
 
 excerpt: We are a one-of-its-kind enterprise risk detection company, helping our customers improve their safety performance, increase bottom lines, and foster sustainability by addressing process risks in plant operations.  Powered by our expertise in risk management and large-scale machine learning, our unique approach has not only earned several patents but also a reputation as a disruptive technology that provides 'peripheral vision' to detect and address hidden risks.
@@ -22,18 +22,20 @@ header:
 
 <br>
 
+
+
+
 {% include group-by-array collection=site.team field="org" %}
 
-
-
+<div class="team__grid">
 {% for category in group_names %}
 
   {% if category == "Leadership Team" %}
     {% include team-single.html %}
   {% endif %}
-    
-{% endfor %}
 
+{% endfor %}
+</div>
 
 <a href="#site-nav" class="btn btn--inverse align-right">Return to Top</a>
 <br>

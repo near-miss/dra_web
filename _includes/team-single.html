@@ -1,14 +1,16 @@
 
 {% assign posts = group_items[forloop.index0] %}
 <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+
 {% for post in posts %}
-<img src="http://placehold.it/200x200"> 
+<div class="team__item">
+<img src="images/team/{{ post.name }}.jpg"> 
 <h3>{{ post.full-name }}</h3>
-<em>{{ post.title }}</em>
+{% if post.title != "NA" %}<em>{{ post.title }}</em>{% endif %}
 <p>{{ post.content }}
 </p>
-<button class="btn btn--info"><i class="fa fa-envelope"></i> <a href="mailto:{{ post.email }}">Contact {{ post.name }}</a></button>
-
+<button class="btn btn--inverse"><i class="fa fa-envelope"></i> <a href="mailto:{{ post.email }}">Contact {{ post.name }}</a></button>
+</div>
 <br>
 {% endfor %}
 

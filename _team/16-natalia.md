@@ -1,7 +1,7 @@
 ---
 name: Natalia
 full-name: Natalia Olson-Urtecho
-title: Title
+title: NA
 email: mail@nearmissmgmt.com
 org: Advisory Board
 ---

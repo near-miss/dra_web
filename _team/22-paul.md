@@ -1,7 +1,7 @@
 ---
 name: Paul
 full-name: Prof. Paul R. Kleindorfer
-title: Title
+title: NA
 email: mail@nearmissmgmt.com
 org: Academic Advisors
 ---
