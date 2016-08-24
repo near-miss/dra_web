@@ -28,6 +28,16 @@ body {
 }
 
 
+.btn--inverse {
+  i {
+    color: #52adc8;
+    padding-right: 3px;
+  }
+
+  &:hover {
+    color: #ffffff;
+  }
+}
 
 
 // Header
