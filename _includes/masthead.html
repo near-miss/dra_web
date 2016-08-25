@@ -1,12 +1,22 @@
 {% include base_path %}
 
+<div class="tophead">
+
+  <div class="brand">
+    <div class="logo"><a href="/"><img src="/images/monogram-logo.png" alt="Near-Miss Management"/></div>
+    <h1>Near-Miss Management</h1>    
+  </a>
+</div>
+
+</div>
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/"><img src="images/logo.png" alt=""></a></li>
+          
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}

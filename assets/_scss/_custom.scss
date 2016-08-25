@@ -43,9 +43,11 @@ body {
 // Header
 // ------------------------------
 
-// li.masthead__menu-item.masthead__menu-item--lg {
-//   background-image: url(../images/logo.png) !important;
+// .masthead__inner-wrap {
+//   padding-top: 2px !important;  
+//   padding-bottom: 2px !important;  
 // }
+
 
 
 .masthead__menu-item.active a {
@@ -58,6 +60,14 @@ body {
   &:before {
     background-color: #ffffff;
   }
+}
+
+
+// Navigation
+// ------------------------------
+
+.greedy-nav .visible-links {
+  margin: 0 auto;
 }
 
 
@@ -181,6 +191,7 @@ section {
 // Products Page
 
 .archive__item-teaser {
+  text-align: center;
 
   img {
     width: 50%;
@@ -387,3 +398,44 @@ section {
 }
 
 
+
+// Top Header
+// ========================
+
+.tophead {
+  width: span(12);
+  // background-color: red;
+}
+
+// Branding 
+
+.brand {
+  display: inline-flex;
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+
+
+  a {
+    text-decoration: none;
+  }
+
+  h1 {
+    font-size: $type-size-5;
+    line-height: 2em;
+    font-family: 'DINLight', sans-serif;
+    text-transform: uppercase;
+    font-weight: 200;
+    cursor: default;
+    opacity: 0.6;
+    color: #000000;
+    cursor: pointer;
+  }
+
+  img {
+    width: 54px;
+    padding-right: 6px;
+    padding-top: 4px;
+  }
+
+
+}
