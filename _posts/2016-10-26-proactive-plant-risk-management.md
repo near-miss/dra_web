@@ -2,10 +2,10 @@
 title: Proactive Plant Risk Management
 date: 2016-10-01
 author: 
-publication:
+publication: Asian Downstream Week
 category: Events
-source:
-keywords: 
+source:http://www.downstream-asia.com/
+keywords: panel discussion, 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus eaque provident veritatis, pariatur nam debitis a sapiente excepturi tenetur laudantium praesentium, quod eum reiciendis dignissimos vitae dolorum esse fugit cum.
+Near-Miss Management to participate in Panel Discussion at Asian Downstream Week
