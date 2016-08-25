@@ -24,7 +24,7 @@ type: posts
 <h2 class="archive__item-title">Ok, assuming I like the demo, what are the next steps?</h2>
 <p>Once you have seen the DRA demo, you have two options:</p>
 <p><ol>
-<li><b>Install the software at your site.</b> This is the best way to review the usefulness and benefits of DRA. Based on our experiences, we estimate that the DRA technology will pay for itself many times over within a year’s time. </li>
+<li><b>Install the software at your site.</b> This is the best way to experience the usefulness and benefits of DRA. Based on our experiences, we estimate that the DRA technology will pay for itself many times over within a year’s time. </li>
 <li><b>Conduct an analysis of your own data through DRA.</b> If you would like to test the software capability using your own data and/or possibly a build a strong case for your internal review, we will be happy to conduct a test analysis using data of your choice. All you have to do is send us data and we will then schedule a customized demo (based on your data) 2 weeks later for your team.</li></ol></p>
 
 <h2 class="archive__item-title">How much maintenance is required? </h2>
