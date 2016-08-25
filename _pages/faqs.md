@@ -18,7 +18,7 @@ type: posts
 <h2 class="archive__item-title">What type of hardware is needed for DRA?</h2>
 <p>Our server needs are pretty standard. We ask you to provide either a virtual server or physical server.</p>
 
-<h2 class="archive__item-title">What is a “demo”? How much time do I need to allocate for it?</h2>
+<h2 class="archive__item-title">What is a 'demo'? How much time do I need to allocate for it?</h2>
 <p>A demo is an online live demonstration of the capabilities of DRA software by our technical team using a real industrial data set. We will send you a 'Webex' link that will allow you to view the demonstration from the comfort of your office. You and your colleagues can all be in one conference room for the demo or you can forward the Webex information to your colleagues and they can join from their offices. The software demonstration part typically lasts about 15-20 minutes, but we usually ask you to reserve an hour on your calendar, so that we have sufficient time to answer all your questions.</p>
 
 <h2 class="archive__item-title">Ok, assuming I like the demo, what are the next steps?</h2>
