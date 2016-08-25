@@ -10,7 +10,7 @@ type: posts
 <h3 class="archive__subtitle">Frequently Asked Questions</h3>
 
 <h2 class="archive__item-title">What are the kinds of tags one can track in the DRA?</h2>
-<p>One can track any tag that is monitored and recorded continuously in the plant operations. These include temperatures, pressures, flow rates, level indicators, variables associated with rotating equipments, and even your quality variables, which are recorded less frequently. We understand that the sampling frequency of the tags can vary significantly (for example, from 1-sec to 1-day) and that is not a problem. </p>
+<p>One can track any tag that is monitored and recorded continuously in the plant operations. These include temperatures, pressures, flow rates, level indicators, variables associated with rotating equipments, and even your quality variables, which are recorded less frequently. We understand that the sampling frequency of the tags can vary significantly (for example, from 1-sec to 1-day) and that is easily handled by DRA. </p>
 
 <h2 class="archive__item-title">How is data security handled? Because of confidentiality reasons, I cannot let our process data out.</h2>
 <p>Your process data, DRA software copy, as well as the results of the risk calculations – all stay at your site. The information is not on the cloud and stays completely secured within your network firewalls. Only you and your employees have access to that information via your Intranet. We do not have any access to that information once we install the software and leave your site. Further, your IT has complete control over the server.  In short, DRA is designed to ensure that there is no network security issue. </p>
