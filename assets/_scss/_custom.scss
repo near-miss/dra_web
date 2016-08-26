@@ -18,7 +18,7 @@ body {
 
 
 .masthead {
-  background-color: #ffffff;
+  // background-color: red;
 }
 
 
@@ -67,9 +67,17 @@ body {
 // ------------------------------
 
 .greedy-nav .visible-links {
-  margin: 0 auto;
+  // margin: 0 auto;
 }
 
+.greedy-nav {
+  // background-color: red;
+}
+
+
+.masthead__menu {
+
+}
 
 
 // Hero
@@ -417,6 +425,7 @@ section {
 
   a {
     text-decoration: none;
+    color: #333333;
   }
 
   h1 {
