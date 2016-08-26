@@ -3,7 +3,7 @@ title: "Get In Touch"
 layout: single
 sitemap: true
 permalink: contact
-author_profile: true
+author_profile: false
 ---
 
 
