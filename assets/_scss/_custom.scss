@@ -11,6 +11,10 @@ body {
   border-color: #bec9cf;
 }
 
+section { 
+  padding-bottom: 2rem;
+}
+
 #main {
   // padding-bottom: 4rem;
 }
@@ -148,15 +152,36 @@ p.page__meta {
   }
 
   h2 {
-    font-size: $type-size-2;
+    font-size: $type-size-3;
     text-align: center;
     color: #434A54;
     font-weight: 400;
   }
+
 }
+
+
+.page__section-title {
+  text-transform: uppercase;
+}
+
+.page__section-diagram {
+  text-align: center;
+  padding: 3rem;
+
+  img {
+    height: 400px;
+  }
+
+}
+
 
 .intro {
   text-align: center;
+
+  h1 {
+    font-size: $type-size-1; 
+  }
 }
 
 
