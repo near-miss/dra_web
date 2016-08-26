@@ -16,7 +16,7 @@ section {
 }
 
 #main {
-  // padding-bottom: 4rem;
+  min-height: 920px;
 }
 
 
@@ -528,3 +528,9 @@ section {
 
 
 
+//  Contact
+.contact__info {
+  float: right;
+  margin-right: 50px;
+
+}
