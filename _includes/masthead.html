@@ -2,11 +2,9 @@
 
 <div class="tophead">
 
-  <div class="brand">
-    <div class="logo"><a href="/"><img src="/images/monogram-logo.png" alt="Near-Miss Management"/></div>
-    <!-- <h1>Near-Miss Management</h1>     -->
-  </a>
-</div>
+<!--   <div class="brand">
+    <div class="logo"><a href="/"><img src="/images/monogram-logo.png" alt="Near-Miss Management"/></div> </a>
+  </div> -->
 
 </div>
 
@@ -16,19 +14,24 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item {% if page.url == link.url %} active{% endif %} "><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
+          <li class="masthead__menu-item masthead__menu-item--lg brand">
+
+
+           <span class="logo"><img src="/images/monogram-logo.png" alt="Near-Miss Management"/></span>
+
+           <a href="{{ base_path }}/">{{ site.title }}</a></li>
+           {% for link in site.data.navigation.main %}
+           {% if link.url contains 'http' %}
+           {% assign domain = '' %}
+           {% else %}
+           {% assign domain = base_path %}
+           {% endif %}
+           <li class="masthead__menu-item {% if page.url == link.url %} active{% endif %} "><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+           {% endfor %}
+         </ul>
+         <ul class="hidden-links hidden"></ul>
+       </nav>
+     </div>
+   </div>
+ </div>
 
