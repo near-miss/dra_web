@@ -27,7 +27,7 @@ header:
 
 {% include group-by-array collection=site.team field="org" %}
 
-<h2 id="leadership-team" class="archive__subtitle">Leadership Team</h2>
+<h2 id="leadership-team" class="page__section-title">Leadership Team</h2>
 <br>
 
 <div class="team__grid">
@@ -44,7 +44,7 @@ header:
 <a href="#main" class="btn btn--inverse align-right">Return to Top</a>
 <br><br>
 
-<h2 id="advisory-board" class="archive__subtitle">Advisory Board</h2>
+<h2 id="advisory-board" class="page__section-title">Advisory Board</h2>
 <br>
 
 <div class="team__grid">
@@ -60,7 +60,7 @@ header:
 <a href="#main" class="btn btn--inverse align-right">Return to Top</a>
 <br><br>
 
-<h2 id="academic-advisors" class="archive__subtitle">Academic Advisors</h2>
+<h2 id="academic-advisors" class="page__section-title">Academic Advisors</h2>
 <br>
 <div class="team__grid">
 {% for category in group_names %}
