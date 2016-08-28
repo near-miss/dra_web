@@ -1,6 +1,6 @@
 ---
 title: "Get In Touch"
-layout: single
+layout: splash
 sitemap: true
 permalink: contact
 author_profile: false
@@ -8,9 +8,9 @@ author_profile: false
 
 <section>
 
-
+<div class="contact__map">
 <img src="https://api.mapbox.com/v4/fstraat.17lngpi1/-75.1762,39.9550,16.5/1000x500.png?access_token=pk.eyJ1IjoiZnN0cmFhdCIsImEiOiJyQk03MkpZIn0.QdSx3bq1stonKR9oixXLpQ" alt="location-map">
-
+</div>
 
 <div class="contact__info">
 
