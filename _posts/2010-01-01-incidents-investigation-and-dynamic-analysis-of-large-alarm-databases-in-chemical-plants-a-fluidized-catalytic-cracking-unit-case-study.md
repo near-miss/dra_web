@@ -5,6 +5,7 @@ author: Ankur Pariyani, Warren D. Seider, Ulku Oktem, and Masoud Soroush
 publication: Edgar Special Issue. Industrial Engineering and Chemistry Research
 source: http://pubs.acs.org/doi/abs/10.1021/ie9019648
 keywords:
+category: Events
 ---
 
 

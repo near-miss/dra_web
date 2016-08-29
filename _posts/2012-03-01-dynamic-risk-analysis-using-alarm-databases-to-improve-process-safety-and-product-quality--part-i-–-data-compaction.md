@@ -5,6 +5,7 @@ author: Ankur Pariyani, Warren D. Seider, Ulku Oktem, and Masoud Soroush
 publication: AIChE Journal
 source: http://onlinelibrary.wiley.com/doi/10.1002/aic.12643/full
 keywords:
+category: Publications
 ---
 
 

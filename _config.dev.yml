@@ -236,6 +236,7 @@ defaults:
       comments: true
       share: true
       related: true
+      category: news
 
 
 
