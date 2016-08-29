@@ -1,0 +1,54 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% capture teaser %}{{ site.teaser }}{% endcapture %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item archive__item-{{ post.category | downcase }}" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser != blank %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    <div class="archive__item-link"><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read More <i class="fa fa-arrow-right" title="permalink"> </i></a></div>
+    <h2 class="archive__item-title" itemprop="headline">
+      {{ title }}
+    </h2>
+
+    {% if post.author %} <span class="archive__item-author">{{ post.author }}</span>{% endif %}
+    
+    {% if post.publication-logo %} <span class="archive__item-publication"><img src="images/publication-logos/{{ post.publication-logo }}.png" alt="{{ post.publication-logo }}"></span>{% endif %}
+    {% if post.image %} <span class="archive__item-image"><img src="images/publications/{{ post.image }}" alt="{{ post.image }}"></span>{% endif %}
+
+
+
+    
+
+  </article>
+</div>
+
+
+
+
+
+
+
+
+
+

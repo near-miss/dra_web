@@ -1,7 +1,7 @@
 ---
 title: Big Data Use in PSM
 date: 2015-04-29
-author: 
+author: Author Name
 publication: AIChE Spring Meeting 
 category: Events
 tags: 
