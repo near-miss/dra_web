@@ -527,7 +527,6 @@ section {
 
 .page__footer-copyright { 
   width: span(12);
-  width: 100%;
   display: inline-block;
   text-align: center;
 }
@@ -607,12 +606,42 @@ section {
 
 //  Contact
 
-.contact__map {
-  text-align: center;
+.contact {
+
+  &__wrap {
+    width: span(12);
+  }
+
+  &__map {
+    width: span(9);
+    float: left;
+
+
+  }
+
+  &__info {
+    width: span(3);
+    float: right;
+
+
+    i {
+      text-align: left;
+    }
+
+    a {
+      color: #494e52;
+
+      &:hover {
+        color: #2B97DE;
+      }
+    }
+
+    h3 {
+      margin-top: 2px;
+    }
+
+  }
+
+  // 950
 }
 
-.contact__info {
-  float: right;
-  margin-right: 50px;
-
-}
