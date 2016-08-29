@@ -84,43 +84,28 @@ section {
 }
 
 
-// Hero
-// ------------------------------
-
-.page__hero--overlay {
-  min-height: 90vh;
-  // display: table;
-  // overflow: hidden;
-
-  .wrapper {
-    // padding-top: 20%;
-    // display: table-cell;
-    // vertical-align: middle;
-    padding-top: 10vh;
-  }
-
-  .page__title {
-    padding-bottom: 3rem;
-  }
-
-  .page__lead {
-    padding-bottom: 2rem;
-  }
-}
-
 
 // Page
 // ------------------------------
 
 .page__hero--overlay {
+  min-height: 90vh;
   text-align: center;
-  margin-bottom: 3rem;
 
+  .wrapper {
+    padding-top: 10vh;
+  }
 
   .page__title {
+    // padding-bottom: 3rem;
     font-weight: 600;
   }
+
+  .page__lead {
+    // padding-bottom: 2rem;
+  }
 }
+
 
 
 .page__title {
@@ -129,16 +114,19 @@ section {
   letter-spacing: -0.61px;
   line-height: 3rem;
 
-  // font-size: 74px;
-  // font-size: 3.444rem;
 }
 
 .page__lead {
   font-weight: 200;
-  // font-size: 25px;
-  margin-top: -20px;
+  // margin-top: -20px;
   max-width: 100% !important;
-  margin: 20px 10%;
+  // margin: 20px 10%;
+
+  // display: table-cell;
+  // vertical-align: center;
+  padding-bottom: 2em;
+
+
 }
 
 p.page__meta {
