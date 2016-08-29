@@ -352,10 +352,6 @@ section {
 // Newsroom
 // -----------------
 
-// yellow - #FFC700
-// purple - #9E5697
-// green - #68BF1C
-
 
 .grid__item {
 
@@ -422,19 +418,12 @@ section {
     margin-left: 0; // reset before mixin does its thing
     margin-right: 0; // reset before mixin does its thing
     @include gallery(4 of 12);
-    // background-color: red;
-
-    // .archive__item-teaser {
-    //   max-height: 120px;
-    // }
-
-    // .archive__item-excerpt {
-    //   display: block;
-    //   font-size: $type-size-6;
-    // }
   }
 
 }
+
+
+// News Filter
 
 
 
