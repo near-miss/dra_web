@@ -1,7 +1,7 @@
 ---
 title: Proactive Plant Risk Management
 date: 2016-10-26
-author: PANEL DISCUSSION
+author: Panel Discussion
 publication: Asian Downstream Week
 logo: ADW
 category: Events
