@@ -6,7 +6,6 @@ publication: Control Engineering
 logo: controleng
 category: Publications
 source: http://www.controleng.com/single-article/process-risk-assessment-uses-big-data/632b3ce8d25102b9ab558b3833cc5885.html
-image: publication-image.jpg
 ---
 
 > Technology Update: Predictive, process risk assessment can use big data to assess risks dynamically and report automatically, empowering plant personnel to identify issues, taking necessary preventive measures to address them, avoiding a related shutdown incident or accident.
