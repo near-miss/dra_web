@@ -1,8 +1,9 @@
 ---
 title: Big Data Use in PSM
 date: 2015-04-29
-author: Author Name
+author: Invited Panel Presentation at Big Data Analytics Topical Conference
 publication: AIChE Spring Meeting 
+logo: aichespring2015
 category: Events
 tags: 
 source: http://www.aiche.org/chenected/2015/04/aiche-holds-its-first-topical-conference-on-big-data-analytics
