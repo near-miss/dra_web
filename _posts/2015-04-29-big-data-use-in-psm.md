@@ -1,5 +1,5 @@
 ---
-title: Big Data Use in PSM
+title: "Big Data Use in PSM"
 date: 2015-04-29
 author: Invited Panel Presentation at Big Data Analytics Topical Conference
 publication: AIChE Spring Meeting 
