@@ -3,10 +3,10 @@ title: Predicting Process Risks for Improved Safety and Operational Excellence: 
 date: 2016-09-21
 author: PRESENTATION
 publication: 61st Annual Safety in Ammonia Plants and Related Facilities Symposium
-logo: ADW
+logo: aicheammonia2016
 category: Events
 source: http://www.aiche.org/conferences/annual-safety-ammonia-plants-and-related-facilities-symposium/2016
 keywords: presentation, aiche, ammonia 
 ---
 
-Near-Miss Management to participate in Panel Discussion at Asian Downstream Week
+Near-Miss Management to present at the 61st Annual Safety in Ammonia Plants and Related Facilities Symposium in Denver, CO
