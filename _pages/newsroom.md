@@ -7,7 +7,7 @@ permalink: newsroom
 {% include base_path %}
 
 
-<h1 class="page__title">Learn. Explore. Stay Connected.</h1>
+<h1 class="page__title">Learn. Explore. Stay Informed.</h1>
 {: .text-center}
 
 <div class="grid__wrapper">
