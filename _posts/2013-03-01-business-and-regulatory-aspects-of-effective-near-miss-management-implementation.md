@@ -3,6 +3,8 @@ title: "Business and Regulatory Aspects of Effective Near-Miss Management Implem
 date: 2013-03-01
 author: Ulku Oktem and Iclal Atay 
 publication: AIChE Spring Meeting
+logo: aichespring2013
+category: Events
 source:
 keywords: 
 ---
