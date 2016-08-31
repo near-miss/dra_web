@@ -2,6 +2,7 @@
 title: Don't Neglect Your Near-Misses
 date: 2015-06-01
 author: James E. Leemann Ph.D.
+type: Industry Magazine Article
 publication: Industrial Safety & Hygiene News
 logo: ISHN
 category: Publications
