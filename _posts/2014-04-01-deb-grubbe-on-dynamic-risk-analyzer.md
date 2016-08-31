@@ -11,4 +11,4 @@ keywords: interivew, dynamic risk analyzer, incident prevention, aiche spring me
 During the 2014 Spring Meeting Poster Session in New Orleans, Deb Grubbe of Near-Miss Management took a moment to talk to AIChE ChEnected about the company's Dynamic Risk Analyzer and how it helps pinpoint high-risk areas to prevent incidents and accidents.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P60e3we8aTI" frameborder="0" allowfullscreen></iframe>
+[![Poster Interview: Deb Grubbe, Near-Miss Management](http://img.youtube.com/vi/P60e3we8aTI/hqdefault.jpg)](https://www.youtube.com/embed/P60e3we8aTI)
