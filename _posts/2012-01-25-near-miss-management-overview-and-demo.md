@@ -5,7 +5,7 @@ type: Demo
 publication: Philly Tech Meetup
 logo: ptm
 category: Events
-source: http://phillytechmeetup.com/
+source: 
 keywords: demo, philadelphia tech meetup
 ---
 
