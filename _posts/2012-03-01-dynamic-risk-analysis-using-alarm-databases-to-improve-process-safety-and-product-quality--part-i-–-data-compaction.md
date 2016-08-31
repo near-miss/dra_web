@@ -15,6 +15,7 @@ In most industrial processes, vast amounts of data are recorded through their di
 
 
 [Read Full Article ➡](http://onlinelibrary.wiley.com/doi/10.1002/aic.12643/full)
+{: .text-center}
 
 
 
