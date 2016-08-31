@@ -1,10 +1,11 @@
 ---
 title: "The Near‐Miss Management of Operational Risk"
 date: 2002-09-01
+type: Journal Article
+category: Publications
 author: Alexander Muermann and Ulku Oktem
 publication: Journal of Risk Finance
 logo: jrf
-category: Publications
 source: http://www.emeraldinsight.com/doi/abs/10.1108/eb022951
 keywords:
 link: http://www.emeraldinsight.com/doi/abs/10.1108/eb022951 
