@@ -1,7 +1,7 @@
 ---
 title: "Big Data Use in PSM"
 date: 2015-04-29
-author: Invited Panel Presentation at Big Data Analytics Topical Conference
+type: Invited Panel Presentation at Big Data Analytics Topical Conference
 publication: AIChE Spring Meeting 
 logo: aichespring2015
 category: Events
@@ -10,4 +10,4 @@ source: http://www.aiche.org/chenected/2015/04/aiche-holds-its-first-topical-con
 keywords: near-miss reporting, risk assessments, safety reporting
 ---
 
-Near-Miss Management to participate in an Invited Panel Presentation at Big Data Analytics Topical Conference, AIChE Spring Meeting, 2015 
+Deb Grubee, Near-Miss Management's Chief Marketing Officer participated on an Invited Panel Presentation at Big Data Analytics Topical Conference - AIChE Spring Meeting 2015. 
