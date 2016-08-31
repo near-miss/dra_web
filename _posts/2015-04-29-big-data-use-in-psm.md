@@ -10,4 +10,4 @@ source: http://www.aiche.org/chenected/2015/04/aiche-holds-its-first-topical-con
 keywords: near-miss reporting, risk assessments, safety reporting
 ---
 
-Deb Grubee, Near-Miss Management's Chief Marketing Officer participated on an Invited Panel Presentation at Big Data Analytics Topical Conference - AIChE Spring Meeting 2015. 
+Deb Grubbe, Near-Miss Management's Chief Marketing Officer participated on an Invited Panel Presentation at Big Data Analytics Topical Conference - AIChE Spring Meeting 2015. 
