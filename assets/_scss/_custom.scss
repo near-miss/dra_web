@@ -356,7 +356,7 @@ section {
 .grid__item {
 
   .archive__item {
-    height: 300px;
+    height: 320px;
     border: 1px solid #D8D8D8;
     border-radius: 3px;
     padding-left: 9px;
@@ -380,20 +380,28 @@ section {
     }
 
     &-logo {
-      display: table-cell;
-      // padding-top: 1em;
-      // padding-bottom: 1em;
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+      width: 100%;
+      display: block;
+      padding-left: 25%;
 
       img {
-        width: 190px;
+        max-width: 190px;
+        max-height: 140px;
         display: block;
+        -webkit-filter: grayscale(100%);
+        filter: grayscale(100%);
+        opacity: 0.8;
       }
     }
+
 
     &-link {
       // float: right;
       position: relative;
       top: 265px;
+      margin-top: 1rem;
       a {
         float: right;
       }
@@ -409,6 +417,15 @@ section {
 
     &-publications {
       border-top-color: #68BF1C;
+    }
+
+
+    &:hover {
+      img {
+        -webkit-filter: grayscale(0%);
+        filter: grayscale(0%);
+        opacity: 1;
+      }
     }
 
   }
