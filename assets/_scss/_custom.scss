@@ -263,30 +263,43 @@ section {
 }
 
 
-// Insutry
-.archive__grid {
-  @include clearfix; 
-  padding-bottom: 3rem;
-  padding-top: 1rem;
+// Insutries
 
-  .archive__item {
-    @include gallery(6 of 12);
-    // width: span(12);
-    padding-bottom: 1.5rem;
-    padding-left: span(0.5 of 12);
+section .industries {
 
-    img {
-      width: 380px;
+  .archive__grid {
+    @include clearfix; 
+
+    padding-top: 1rem;
+
+    .archive__item {
+      @include gallery(3 of 12);
+
+      img {
+        width: 380px;
+      }
+    }
+
+    .archive__item-title {
+      font-weight: 400;
+      font-size: $type-size-5;
+
+      margin-top: 0.5rem;
+    }
+
+    .archive__item-body {
+      background: rgba(0,0,0,.5);
+      color: white;
+      padding-left: 8px;
+      padding-top: 1px;
+      padding-bottom: 1px;
+      position: relative;
+      top: -30px;
     }
   }
 
-  .archive__item-title {
-    font-weight: 400;
-    font-size: $type-size-5;
-    text-transform: uppercase;
-    margin-top: 0.5rem;
-  }
 }
+
 
 
 
@@ -473,12 +486,6 @@ section {
 // -----------------------
 
 @media only screen and (min-width: 600px) {
-
-  // .archive-grid {
-    .archive__item {
-      // @include gallery(6 of 12);
-    }
-  // }
 
   .team__item { 
     @include gallery(6 of 12);
