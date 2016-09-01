@@ -1,5 +1,5 @@
 ---
-title: "A Breakthrough Technology to Predict Process Risks for Improved Reliability and Safety"
+title: "A Breakthrough Technology to Predict Process Risks for Improved Reliability and Safety: Case Studies"
 date: 2015-11-05
 author: 
 publication: 2nd CCPS Global Summit on Process Safety 
