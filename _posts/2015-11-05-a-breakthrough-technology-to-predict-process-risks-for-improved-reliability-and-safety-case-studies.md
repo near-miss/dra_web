@@ -4,7 +4,7 @@ date: 2015-11-05
 author: 
 publication: 2nd CCPS Global Summit on Process Safety 
 logo: ccps2015
-type: Presentation
+type: Joint Customer Presentation
 category: Events
 source: http://www.aiche.org/ccps/conferences/ccps-global-summit-on-process-safety/2015
 keywords: dynamic risk analyzer, breakthrough technology, safety, reliability
