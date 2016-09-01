@@ -351,7 +351,31 @@ section {
 
 // Newsroom
 // -----------------
+.filters-button-group {
+  label {
+    display: inline-block;
+  }
 
+
+
+  .btn.is-checked {
+    color: #ffffff;
+  }
+
+  .btn--events.is-checked { 
+    background-color: #FFC700;
+  }
+
+  .btn--news.is-checked { 
+    background-color: #9E5697;
+  }
+
+  .btn--publications.is-checked { 
+    background-color: #68BF1C;
+  }
+  
+  
+}
 
 .grid__item {
 
