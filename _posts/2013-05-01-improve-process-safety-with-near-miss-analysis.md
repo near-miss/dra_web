@@ -2,7 +2,7 @@
 title: "Improve Process Safety with Near-Miss Analysis"
 date: 2013-05-01
 author: Ulku Oktem, Warren Seider, Masoud Soroush, and Ankur Pariyani
-publication: On The Horizon Article, CEP Magazine, AIChE Publication
+publication: On The Horizon Article, CEP Magazine
 logo: cep
 source: http://www.aiche.org/sites/default/files/cep/20130520.pdf
 category: Publications
