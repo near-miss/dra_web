@@ -11,4 +11,4 @@ source:
 
 > A Proven, Advanced Warning Platform for Proactive Process Management and Predictive Maintenance to Improve On-Stream Efficiency and Profitability.
 
-> A Disruptive Technology to identify Process Risks before they become Known Problems.
+Please contact Near-Miss Management to request a copy of the article. 
