@@ -31,22 +31,21 @@ permalink: newsroom-dev
 
 
 
-<script language="JavaScript" type="text/javascript" src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
-<script language="JavaScript" type="text/javascript" src="https://npmcdn.com/isotope-layout@3.0.1/dist/isotope.pkgd.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://localhost:4000/assets/js/main.min.js"></script>
 
 
 <script>
   
 
 var $grid = $('.grid__wrapper').isotope({
-  itemSelector: '.archive__item'
+  itemSelector: '.archive__item',
   // set layoutMode
-  // layoutMode: 'vertical',
+  layoutMode: 'cellsByRow',
   // options for cellsByRow layout mode
-  // cellsByRow: {
-    // columnWidth: 200,
-    // rowHeight: 150
-  // }
+  cellsByRow: {
+    columnWidth: 200,
+    rowHeight: 150
+  }
 })
 
 
