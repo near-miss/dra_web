@@ -27,7 +27,7 @@ permalink: newsroom-dev
 
 <div class="grid__wrapper">
   {% for post in site.posts %}
-    {% include news-single.html type="grid" %}
+  {% include news-single.html type="grid" %}
   {% endfor %}
 </div>
 
@@ -37,18 +37,20 @@ permalink: newsroom-dev
 
 
 <script>
-  
 
-var $grid = $('.grid__wrapper').isotope({
-  itemSelector: '.archive__item',
-  // set layoutMode
-  layoutMode: 'fitRows'
-  // options for cellsByRow layout mode
-  // cellsByRow: {
-    // columnWidth: 200,
-    // rowHeight: 300
-  // }
-})
+
+//   var $grid = $('.grid__wrapper').isotope({
+//     itemSelector: '.archive__item',
+//   // set layoutMode
+//   layoutMode: 'fitRows'
+//   // options for cellsByRow layout mode
+//   // cellsByRow: {
+//     // columnWidth: 200,
+//     // rowHeight: 300
+//   // }
+// })
+
+
 
 
 // bind filter button click
@@ -56,6 +58,7 @@ $('.filters-button-group').on( 'click', 'button', function() {
   var filterValue = $( this ).attr('data-filter');
   $grid.isotope({ filter: filterValue });
 });
+
 
 // change is-checked class on buttons
 $('.button-group').each( function( i, buttonGroup ) {
@@ -65,7 +68,7 @@ $('.button-group').each( function( i, buttonGroup ) {
     $( this ).addClass('is-checked');
   });
 });
-  
+
 
 
 
@@ -73,11 +76,11 @@ $('.button-group').each( function( i, buttonGroup ) {
 
 
 <style>
-/*  .grid__wrapper {
-   either of these will work for horizontal Isotope layouts 
-  height: 80%;
-  height: 480px;
-}*/
+  .grid__wrapper {
+   /*either of these will work for horizontal Isotope layouts */
+   height: 80%;
+   height: 480px;
+ }
 </style>
 
 
