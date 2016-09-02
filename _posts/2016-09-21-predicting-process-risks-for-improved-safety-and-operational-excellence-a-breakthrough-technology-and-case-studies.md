@@ -8,4 +8,4 @@ category: Events
 source: http://www.aiche.org/conferences/annual-safety-ammonia-plants-and-related-facilities-symposium/2016
 keywords: presentation, aiche, ammonia plants, safety
 ---
-Near-Miss Management to present at the 61st Annual Safety in Ammonia Plants and Related Facilities Symposium in Denver, CO.
+Near-Miss Management to make a joint presentation at the 61st Annual Safety in Ammonia Plants and Related Facilities Symposium in Denver, CO.
