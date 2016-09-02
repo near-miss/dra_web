@@ -1,7 +1,7 @@
 ---
 title: "Predicting Process Risks for Improved Safety and Operational Excellence: A Breakthrough Technology and Case Studies"
 date: 2016-09-21
-type: Joint Customer Presentation
+type: Presentation
 publication: 61st Annual Safety in Ammonia Plants and Related Facilities Symposium
 logo: aicheammonia2016
 category: Events
