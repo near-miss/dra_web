@@ -39,16 +39,16 @@ permalink: newsroom-dev
 <script>
 
 
-//   var $grid = $('.grid__wrapper').isotope({
-//     itemSelector: '.archive__item',
-//   // set layoutMode
-//   layoutMode: 'fitRows'
-//   // options for cellsByRow layout mode
-//   // cellsByRow: {
-//     // columnWidth: 200,
-//     // rowHeight: 300
-//   // }
-// })
+  var $grid = $('.grid__wrapper').isotope({
+    itemSelector: '.archive__item',
+  // set layoutMode
+  layoutMode: 'fitRows'
+  // options for cellsByRow layout mode
+  // cellsByRow: {
+    // columnWidth: 200,
+    // rowHeight: 300
+  // }
+})
 
 
 
