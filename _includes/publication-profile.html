@@ -1,9 +1,5 @@
 {% include base_path %}
 
-a
-  {{ post.date }}
-
-
 {% if page.publication and site.data.publications[page.publication] %}
   {% assign publication = site.data.publications[page.publication] %}{% else %}{% assign publication = site.publication %}
 {% endif %}
