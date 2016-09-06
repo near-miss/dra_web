@@ -1,5 +1,9 @@
 {% include base_path %}
 
+a
+  {{ post.date }}
+
+
 {% if page.publication and site.data.publications[page.publication] %}
   {% assign publication = site.data.publications[page.publication] %}{% else %}{% assign publication = site.publication %}
 {% endif %}
@@ -7,7 +11,7 @@
 <div itemscope itemtype="http://schema.org/Person">
 
 
-
+  {% if publication.logo %}
   <div class="publication__avatar">
     {% if publication.logo contains "://" %}
     	<img src="{{ publication.logo }}" alt="{{ publication.name }}">
@@ -15,6 +19,9 @@
     	<img src="{{ publication.logo | prepend: "/images/logos/" | prepend: base_path }}.png" class="author__avatar" alt="{{ publication.name }}">
     {% endif %}
   </div>
+  {% endif %}
+  
+
 
   <div class="author__content">
     <h3 class="author__name">{{ publication.name }}</h3>
