@@ -28,6 +28,7 @@ permalink: newsroom-dev
 <div class="grid__wrapper">
   {% for post in site.posts %}
   {% include news-single.html type="grid" %}
+  
   {% endfor %}
 </div>
 
@@ -40,15 +41,15 @@ permalink: newsroom-dev
 
 
   var $grid = $('.grid__wrapper').isotope({
-    itemSelector: '.archive__item',
-  // set layoutMode
-  layoutMode: 'fitRows'
-  // options for cellsByRow layout mode
-  // cellsByRow: {
-    // columnWidth: 200,
-    // rowHeight: 300
-  // }
-})
+    itemSelector: '.grid__item'
+
+    // layoutMode: 'fitRows'
+
+  //   cellsByRow: {
+  //     columnWidth: 2,
+  //     rowHeight: 3
+  //   }
+  })
 
 
 
@@ -74,14 +75,6 @@ $('.button-group').each( function( i, buttonGroup ) {
 
 </script>
 
-
-<style>
-  .grid__wrapper {
-   /*either of these will work for horizontal Isotope layouts */
-   height: 80%;
-   height: 480px;
- }
-</style>
 
 
 

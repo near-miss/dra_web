@@ -465,14 +465,16 @@ section .industries {
       }
     }
 
-  }
 
-
-  @include breakpoint($medium) {
+    @include breakpoint($medium) {
     margin-left: 0; // reset before mixin does its thing
     margin-right: 0; // reset before mixin does its thing
     @include gallery(4 of 12);
   }
+
+}
+
+
 
 }
 
@@ -503,16 +505,16 @@ section .industries {
 
 .page__footer-info {
   font-size: $type-size-6;
-  float: left;
-  width: span(3);
-  margin-right: gutter(); 
-
-
+  width: span(12);
+  display: inline-block;
+  text-align: left;
+  border-bottom: 1px solid lighten(#9ba1a6,1%);
+  margin-bottom: 2em;
 }
 
 .page__footer-nav {
   float: right;
-  width: span(9);
+  width: span(12);
 
 
   ul {
@@ -523,7 +525,7 @@ section .industries {
   li {
     color: #83A3B6;
     margin-bottom: 0px;
-    min-width: 9rem;
+    min-width: 12rem;
   }
 
   .nav-item {
