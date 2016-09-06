@@ -485,7 +485,16 @@ section .industries {
       }
     }
 
+
+
   }
+  @include breakpoint($medium) {
+    margin-left: 0; // reset before mixin does its thing
+    margin-right: 0; // reset before mixin does its thing
+    @include gallery(4 of 12);
+  }
+
+
 
 }
 
