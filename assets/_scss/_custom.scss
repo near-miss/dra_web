@@ -500,20 +500,17 @@ section .industries {
 }
 
 
-// News Filter
-
-
 
 
 // Desktop
 // -----------------------
 
-// @media only screen and (min-width: 600px) {
+@media only screen and (min-width: 600px) {
 
-//   .team__item { 
-//     @include gallery(6 of 12);
-//   }
-// }
+  .team__item { 
+    @include gallery(6 of 12);
+  }
+}
 
 
 // Footer
@@ -625,7 +622,8 @@ section .industries {
   // -webkit-filter: grayscale(100%);
   // filter: grayscale(100%);
   transition: 0.3s;
-  // opacity: 0.8;
+  opacity: 0.8;
+
 }
 
 
