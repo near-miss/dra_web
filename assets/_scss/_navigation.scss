@@ -211,6 +211,12 @@
 
         a {
           margin-left: 0;
+
+        &:before {
+          content: "";
+          transform: scaleX(0); // hide
+        }
+
         }
       }
 
@@ -238,9 +244,10 @@
 
       &:hover:before {
         transform: scaleX(1); // reveal
-      }
+      } 
+
     }
-  }
+ }
 
   .hidden-links {
     position: absolute;
