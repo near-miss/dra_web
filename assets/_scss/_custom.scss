@@ -525,20 +525,33 @@ section .industries {
   font-size: $type-size-6;
   width: span(12);
   display: inline-block;
-  // text-align: left;
-  // border-bottom: 1px solid lighten(#9ba1a6,1%);
   margin-bottom: 2em;
 }
 
 .page__footer-brand {
   width: span(3);
   float: left;
-  padding-top: 2rem;
+  padding-top: 0.65rem;
+  
+  img:last-child{
+    display:none;
+  }
+
+  &:hover img:first-child {
+    display:none;
+  }
+
+  &:hover img:last-child{ 
+    display:inline-block;
+  }
+
+
 
   @media only screen and (max-width: 800px) {
     width: span(12);
   }
 }
+
 
 
 .page__footer-text {
