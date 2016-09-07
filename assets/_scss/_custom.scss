@@ -533,6 +533,10 @@ section .industries {
   margin-bottom: 2em;
 }
 
+.page__footer-brand {
+  float: right;
+}
+
 .page__footer-nav {
   float: right;
   width: span(12);
@@ -593,9 +597,19 @@ section .industries {
 
 
 .page__footer-legal {
-  text-align: center;
+  text-align: left;
   font-size: $type-size-6;
   padding-top: 10px;
+}
+
+.page__footer-brand {
+
+  max-width: 250px;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  transition: 0.3s;
+  opacity: 0.8;
+
 }
 
 
@@ -650,7 +664,6 @@ section .industries {
 
 }
 .logo {
-
   float: left;
   padding-top: 7px;
   padding-right: 5px;
