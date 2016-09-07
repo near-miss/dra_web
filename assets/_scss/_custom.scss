@@ -528,14 +528,31 @@ section .industries {
   font-size: $type-size-6;
   width: span(12);
   display: inline-block;
-  text-align: left;
-  border-bottom: 1px solid lighten(#9ba1a6,1%);
+  // text-align: left;
+  // border-bottom: 1px solid lighten(#9ba1a6,1%);
   margin-bottom: 2em;
 }
 
 .page__footer-brand {
-  float: right;
+  width: span(3);
+  float: left;
+  padding-top: 2rem;
+
+  @media only screen and (max-width: 800px) {
+    width: span(12);
+  }
 }
+
+
+.page__footer-text {
+  width: span(9);
+  float: right;
+
+  @media only screen and (max-width: 800px) {
+    width: span(12);
+  }
+}
+
 
 .page__footer-nav {
   float: right;
@@ -555,8 +572,8 @@ section .industries {
 
   .nav-item {
     float: left;
-    // width: span(2);
-    margin-left: 3.5rem;
+    padding-left: 0.5rem;
+    margin-right: 4rem;
   }
 
 
@@ -597,7 +614,7 @@ section .industries {
 
 
 .page__footer-legal {
-  text-align: left;
+  text-align: center;
   font-size: $type-size-6;
   padding-top: 10px;
 }
@@ -605,10 +622,10 @@ section .industries {
 .page__footer-brand {
 
   max-width: 250px;
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
+  // -webkit-filter: grayscale(100%);
+  // filter: grayscale(100%);
   transition: 0.3s;
-  opacity: 0.8;
+  // opacity: 0.8;
 
 }
 
