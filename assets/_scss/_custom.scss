@@ -311,10 +311,10 @@ section .industries {
 
   section .industries {
     .archive__item {
-      @include gallery(3 of 12);
+      @include gallery(6 of 12);
 
       img {
-        width: 380px;
+        // width: 380px;
       }
     }
 
@@ -626,7 +626,6 @@ section .industries {
   // filter: grayscale(100%);
   transition: 0.3s;
   // opacity: 0.8;
-
 }
 
 
