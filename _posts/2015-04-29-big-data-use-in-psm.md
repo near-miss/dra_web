@@ -2,7 +2,7 @@
 title: "Big Data Use in PSM"
 date: 2015-04-29
 type: Invited Panel Presentation at Big Data Analytics Topical Conference
-publication: AIChE Spring Meeting 
+publication: 2015 AIChE Spring Meeting 
 logo: aichespring2015
 category: Events
 tags: 
