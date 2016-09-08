@@ -388,7 +388,16 @@ section .industries {
     background-color: #68BF1C;
   }
   
-  
+}
+
+.sidebar {
+  img {
+    width: auto;
+  }
+
+  .publication__avatar {
+    padding-bottom: 0.5rem;
+  }
 }
 
 .grid__item {

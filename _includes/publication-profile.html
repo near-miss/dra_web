@@ -1,16 +1,16 @@
 {% include base_path %}
 
 {% if page.publication and site.data.publications[page.publication] %}
-  {% assign publication = site.data.publications[page.publication] %}{% else %}{% assign publication = site.publication %}
+{% assign publication = site.data.publications[page.publication] %}{% else %}{% assign publication = site.publication %}
 {% endif %}
 
 
 {% if publication.logo %}
 <div class="publication__avatar">
   {% if publication.logo contains "://" %}
-  	<img src="{{ publication.logo }}" alt="{{ publication.name }}">
+  <img src="{{ publication.logo }}" alt="{{ publication.name }}">
   {% else %}
-  	<img src="{{ publication.logo | prepend: "/images/logos/" | prepend: base_path }}.png" class="author__avatar" alt="{{ publication.name }}">
+  <img src="{{ publication.logo | prepend: "/images/logos/" | prepend: base_path }}.png" class="author__avatar" alt="{{ publication.name }}">
   {% endif %}
 </div>
 {% endif %}
@@ -22,13 +22,11 @@
   {% if publication.category %}<p class="author__bio">{{ publication.category }}</p>{% endif %}
 
 
-  {% if page.modified %}
-  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
-    {% elsif page.date %}
-  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+  
+  {% if page.date %}
+  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> </strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
   {% endif %}
 
 
   {% include page__taxonomy.html %}
-
 </div>
