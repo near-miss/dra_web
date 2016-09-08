@@ -106,7 +106,13 @@ section {
   }
 }
 
-
+.page__author {
+ text-transform: uppercase;
+ font-size: $type-size-6;
+ color: #9BA1A6;
+ display: block;
+ padding-bottom: 0.5em;
+}
 
 .page__title {
   font-size: $type-size-1;
