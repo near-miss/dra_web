@@ -66,17 +66,8 @@ feature_row:
 </section>
 
 
-<!-- <h2>TRUSTED BY THE INDUSTRY</h2>
 
-<ul>
-  <li>ISHN</li>
-  <li>Control Engineering</li>
-  <li>CEP Magazine</li>
-</ul>
- -->
-
-
-<!-- <h2>Try DRA</h2>
+<!-- <h2 class="page__section-title">Try DRA</h2>
 
 <form>
   <input type="text" name="name" placeholder="Company Name">
@@ -87,11 +78,15 @@ feature_row:
 
  -->
 
-<!--
+<h2 class="page__section-title">Recent News</h2>
+<br>
+<div class="grid__wrapper">
+  {% for post in site.posts limit:6 %}
+  {% include news-single.html type="grid" %}
+  
+  {% endfor %}
+</div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
--->
+
+
