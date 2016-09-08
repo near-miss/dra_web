@@ -2,7 +2,7 @@
 title: "Predictive PSM and OE Insights: Dynamic Risk Analysis for Safer Operations"
 date: 2014-03-30
 author: Deb Grubbe, Ankur Pariyani, and Ulku Oktem
-publication: AIChE Spring Meeting
+publication: 2014 AIChE Spring Meeting
 logo: aichespring2014
 type: Poster
 category: Events
