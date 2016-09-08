@@ -42,6 +42,8 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>{% endif %}
+
+        <a href="{{ page.source }}" target="_blank"><button class="btn">Read More</button></a>
       </section>
 
       <footer class="page__meta">
@@ -64,6 +66,9 @@ layout: default
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
+
+    
+
   </article>
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
