@@ -18,7 +18,9 @@
 <div class="author__content">
   <h3 class="author__name">{{ publication.name }}</h3>
   {% if publication.slogan %}<p class="author__bio">{{ publication.slogan }}</p>{% endif %}
-  
+  <br>
+  {% if page.type %}<p class="author__bio">{{ page.type }}</p>{% endif %}
+
   {% if page.date %}
   <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> </strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
   {% endif %}

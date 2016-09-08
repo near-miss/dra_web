@@ -44,6 +44,13 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>{% endif %}
 
         <a href="{{ page.source }}" target="_blank"><button class="btn">Read More</button></a>
+
+        <br><br>
+
+        {% if page.keywords %}
+          <p><strong>Keywords: </strong> {{ page.keywords }}</p>
+        {% endif %}
+
       </section>
 
       <footer class="page__meta">
