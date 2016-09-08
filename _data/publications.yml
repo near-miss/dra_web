@@ -3,9 +3,24 @@
 Industrial Safety & Hygiene News:
   name: "Industrial Safety & Hygiene News"
   logo: ishn
-  slogan: "This is a slogan placeholder"
+  # slogan: "This is a slogan placeholder"
   
 
 Asian Downstream Week:
   name: "Asian Downstream Week"
   logo: adw
+ 
+  
+61st Annual Safety in Ammonia Plants and Related Facilities Symposium:
+  name: "61st Annual Safety in Ammonia Plants and Related Facilities Symposium"
+  logo: aicheammonia2016
+ 
+  
+Near-Miss Management:
+  name: "Near-Miss Management"
+  logo: nmm
+ 
+ 
+2nd CCPS Global Summit on Process Safety: 
+  name: "2nd CCPS Global Summit on Process Safety"
+  logo: ccps2015
