@@ -269,7 +269,7 @@ section .industries {
 
   .archive__grid {
     @include clearfix; 
-    padding-top: 1rem;
+    // padding-top: 1rem;
 
     .archive__item {
       // @include gallery(3 of 12);
@@ -281,15 +281,16 @@ section .industries {
 
     .archive__item-title {
       font-weight: 400;
-      font-size: $type-size-5;
+      font-size: $type-size-4;
+      text-transform: uppercase;
       margin-top: 0.5rem;
       // background: rgba(0,0,0,0.5);
       color: #ffffff;
       padding-left: 8px;
       padding-top: 1px;
-      padding-bottom: 3px;
+      // padding-bottom: 3px;
       position: relative;
-      top: 36px;
+      top: 45px;
       display: block;
     }
 
