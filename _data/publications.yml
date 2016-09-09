@@ -90,11 +90,14 @@ FOCAPO:
   name: "FOCAPO"
   logo: focapo 
   
-  AIChE Journal:
-  name: "AIChE Journal"
-  logo: aichejournal 
+Safety+Health Magazine:
+  name: "Safety+Health Magazine"
+  logo: safetyhealth 
   
-  AIChE Journal:
-  name: "AIChE Journal"
-  logo: aichejournal 
+Computers and Chemical Engineering:
+  name: "Computers and Chemical Engineering"
+  logo: cace 
   
+“Risk & Regulation”, Special Issue on Close Calls, Near-Misses and Early Warnings LSE Publication:
+  name: "“Risk & Regulation”, Special Issue on Close Calls, Near-Misses and Early Warnings LSE Publication"
+  logo: lse 
