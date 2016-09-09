@@ -33,11 +33,17 @@ type: posts
 
 <h2 class="archive__item-title">What do the users think of the system so far?</h2>
 <p>DRA has shown proven success in industrial facilities and our users just love it for its innovation and simplicity. A few quotes from our end-users are as follows: 
+
 “Issues are showing up on our radar that reveal something is not right even though our lab results indicate otherwise,” 
+
 “DRA reports are used in our morning meetings to point out abnormal areas we need to focus on,” 
+
 “DRA allows us to catch deviations that we not have caught looking at averages,” 
+
 “DRA told us at the outset when we started pushing the limits of the unit,” 
+
 “DRA reports have improved shift-to-shift communications and turnover” and importantly, 
+
 “It’s definitely allowing us to catch much more things at much earlier stages than we would have caught otherwise or were catching earlier.”</p>
 
 <h2 class="archive__item-title">This sounds very interesting, what led to the creation of DRA? </h2>
