@@ -1,5 +1,5 @@
 ---
-title: "Pioneering Proactive Risk Management for Safer and Better Future"
+title: "Pioneering Proactive Risk Management for Better Future"
 layout: splash
 author_profile: false
 permalink: company
