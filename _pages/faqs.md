@@ -32,11 +32,11 @@ type: posts
 <p>The IT support is only needed before and during the installation. After the installation is complete, there is no IT related maintenance required for the software system. From an Engineering point of view, the system is “self-learning” and all the risk parameters are calculated automatically, so there is no human intervention (and maintenance) required for updating the methodologies and/or parameters.</p>
 
 <h2 class="archive__item-title">What do the users think of the system so far?</h2>
-<p>DRA has shown proven success in industrial facilities and our users just love it for its innovation and simplicity. A few quotes from our end-users are as follows: 
+<p>DRA has shown proven success in industrial facilities and our users just love it for its innovation and simplicity. A few quotes from our end-users are as follows: </p>
 
-“Issues are showing up on our radar that reveal something is not right even though our lab results indicate otherwise,” 
+<p>“Issues are showing up on our radar that reveal something is not right even though our lab results indicate otherwise,” </p>
 
-“DRA reports are used in our morning meetings to point out abnormal areas we need to focus on,” 
+<p>“DRA reports are used in our morning meetings to point out abnormal areas we need to focus on,” 
 
 “DRA allows us to catch deviations that we not have caught looking at averages,” 
 
