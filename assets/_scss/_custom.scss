@@ -146,7 +146,7 @@ p.page__meta {
   }
 
   h2 {
-    font-size: $type-size-3;
+    font-size: $type-size-2;
     text-align: center;
     color: #434A54;
     font-weight: 400;
@@ -174,7 +174,7 @@ p.page__meta {
   text-align: center;
 
   h1 {
-    font-size: $type-size-1; 
+    font-size: $type-size-2; 
   }
 }
 
@@ -372,20 +372,33 @@ section .industries {
     display: inline-block;
   }
 
+  .btn {
+    &:focus {
+      outline: none;
+    }
+  }
+
   .btn.is-checked {
     color: #ffffff;
+
   }
 
   .btn--events.is-checked { 
     background-color: #FFC700;
+    color: #ffffff !important;
+
   }
 
   .btn--news.is-checked { 
     background-color: #9E5697;
+    color: #ffffff !important;
+    
   }
 
   .btn--publications.is-checked { 
     background-color: #68BF1C;
+    color: #ffffff !important;
+    
   }
   
 }

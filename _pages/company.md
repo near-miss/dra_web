@@ -16,13 +16,10 @@ header:
 
 {% include base_path %}
 
-<a class="btn btn--inverse" href="#leadership-team">Leadership Team</a>
-<a class="btn btn--inverse" href="#advisory-board">Advisory Board</a>
-<a class="btn btn--inverse" href="#academic-advisors">Academic Advisors</a>
-
-<br>
-
-
+<a class="btn btn--inverse btn--large" href="#leadership-team">Leadership Team</a>
+<a class="btn btn--inverse btn--large" href="#advisory-board">Advisory Board</a>
+<a class="btn btn--inverse btn--large" href="#academic-advisors">Academic Advisors</a>
+{: .text-center}
 
 
 {% include group-by-array collection=site.team field="org" %}
