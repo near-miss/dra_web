@@ -2,7 +2,7 @@
 title: "FAQs"
 layout: archive
 sitemap: true
-author_profile: true
+author_profile: false
 permalink: faqs
 type: posts
 ---
