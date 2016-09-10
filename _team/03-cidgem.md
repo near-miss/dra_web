@@ -2,7 +2,6 @@
 name: Cigdem
 full-name: Cigdem Oktem
 role: Chief Financial Officer
-email: cigdem@nearmissmgmt.com
 org: Leadership Team
 ---
 
