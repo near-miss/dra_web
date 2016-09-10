@@ -4,7 +4,7 @@ layout: splash
 author_profile: false
 permalink: company
 
-excerpt: We are a one-of-its-kind enterprise risk detection company. We help our customers improve their safety performance, increase bottom lines, and foster sustainability by averting process problems at early stages at plant operations.  Powered by our expertise in risk management and large-scale machine learning, our unique approach has not only earned several patents but also a reputation as a disruptive technology that provides 'peripheral vision' to detect hidden risks.
+excerpt: We are a one-of-its-kind enterprise risk detection company. We help our customers improve their safety performance, increase bottom lines, and foster sustainability by averting process problems at plant operations.  Powered by our expertise in risk management and large-scale machine learning, our unique approach has not only earned several patents but also a reputation as a disruptive technology that provides 'peripheral vision' to detect hidden risks.
 
 header: 
   overlay_image: splash-03.jpg
