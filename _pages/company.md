@@ -1,5 +1,5 @@
 ---
-title: "Pioneering a New Era of Proactive Risk Management"
+title: "Pioneering a New Era of Proactive Risk Detection"
 layout: splash
 author_profile: false
 permalink: company
