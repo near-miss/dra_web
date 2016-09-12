@@ -1,7 +1,7 @@
 ---
 name: Cigdem
 full-name: Cigdem Oktem
-role: Chief Financial Officer
+role: Financial Advisor
 org: Leadership Team
 ---
 
