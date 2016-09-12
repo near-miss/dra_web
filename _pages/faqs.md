@@ -32,7 +32,7 @@ type: posts
 
 <p>“DRA told us at the outset when we started pushing the limits of the unit,” </p>
 
-<p>“DRA reports have improved shift-to-shift communications and turnover” and importantly, </p>
+<p>“DRA reports have improved shift-to-shift communications and turnover” and, </p>
 
 <p>“It’s definitely allowing us to catch much more things at much earlier stages than we would have caught otherwise or were catching earlier.”</p>
 
