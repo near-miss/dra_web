@@ -2,7 +2,7 @@
 title: "We Are Near-Miss Management"
 layout: archive
 author_profile: true
-permalink: company-bckp
+permalink: /company-bckp/
 
 excerpt: A new era in process risk management is here—through pioneering techniques and innovative solutions based on the concept of hidden near-misses.
 
