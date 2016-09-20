@@ -32,8 +32,8 @@
 
     {% if post.type %} <span class="archive__item-author">{{ post.type }}</span>{% endif %}
     
-    {% if post.logo %} <span class="archive__item-logo"><img src="images/logos/{{ post.logo | downcase }}.png" alt="{{ post.logo }}"></span>{% endif %}
-    <!-- {% if post.image %} <span class="archive__item-image"><img src="images/publications/{{ post.image }}" alt="{{ post.image }}"></span>{% endif %} -->
+    {% if post.logo %} <span class="archive__item-logo"><img src="{{ site.url }}/images/logos/{{ post.logo | downcase }}.png" alt="{{ post.logo }}"></span>{% endif %}
+    
 
 
   </article>

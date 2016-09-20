@@ -1,7 +1,7 @@
 ---
-title: "Newsroom"
+title: "Publications"
 layout: splash
-permalink: /newsroom/
+permalink: /newsroom/publications/
 ---
 
 {% include base_path %}
@@ -15,7 +15,7 @@ permalink: /newsroom/
   <label>Filter by: </label>  
   <button class="btn btn--inverse btn--news" data-filter="item-news">News</button>
   <button class="btn btn--inverse btn--events" data-filter="item-events">Events</button>
-  <button class="btn btn--inverse btn--publications" data-filter="item-publications">Publications</button>
+  <button class="btn btn--inverse btn--publications is-checked" data-filter="item-publications">Publications</button>
   <button class="btn btn--inverse btn--reset" data-filter="*">Show All</button>
 </div>
 

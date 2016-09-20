@@ -1,25 +1,18 @@
 # main links navigation
 main:
   - title: "Products"
-    url: /products
+    url: /products/
     children:
       - title: "Stories"
         url: /stories/
       - title: "FAQs"
         url: /faqs/
-
+        
   - title: "Company"
-    url: /company
+    url: /company/
 
   - title: "Newsroom"
-    url: /newsroom
-    children:
-      - title: "Media"
-        url: /newsroom/#media
-      - title: "Events"
-        url: /newsroom/#events
-      - title: "Publications"
-        url: /newsroom/#publications
+    url: /newsroom/
 
   - title: "Contact"
-    url: /contact
+    url: /contact/
