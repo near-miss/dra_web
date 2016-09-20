@@ -3,7 +3,7 @@
 <!-- <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2> -->
 {% for post in posts %}
 <div class="team__item">
-<img src="images/team/{{ post.name | downcase }}.jpg"> 
+<img src="{{ site.url }}/images/team/{{ post.name | downcase }}.jpg"> 
 <h3>{{ post.full-name }}</h3>
 {% if post.role %}<em>{{ post.role }}</em>{% endif %}
 {{ post.content }}
