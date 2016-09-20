@@ -2,19 +2,27 @@
    Custom scripts
    ========================================================================== */
 
+var basePath = '/' + window.location.pathname.split('/')[1] + '/';
+var baseUrl = window.location.origin + basePath;
 var gridWrapper = $('.grid__wrapper');
-var gridItems = gridWrapper.children();
+var gridFull = $('#grid__full');
+var gridItems = gridFull.children();
+
 $('.filters-button-group').children().each(function() {
   $(this).click(function() {
     var filter = $(this).attr('data-filter');
+    var btnText = $(this).text().toLowerCase()
     gridWrapper.fadeOut(400,function() {
       gridWrapper.empty();
-      if (filter === '*')
+      if (filter === '*') {
         gridWrapper.append(gridItems);
+        history.replaceState(null, null, baseUrl);
+      }
       else {
         gridWrapper.append(gridItems.filter(function() {
           return $(this).hasClass(filter);
-        }))
+        }));
+        history.replaceState(null, null, baseUrl + btnText.toLowerCase() + '/');
       }
       gridWrapper.fadeIn(300);
     })

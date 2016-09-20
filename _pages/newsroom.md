@@ -27,3 +27,8 @@ permalink: /newsroom/
   {% endfor %}
 </div>
 
+<div class="hidden" id="grid__full">
+  {% for post in site.posts %}
+  {% include news-single.html type="grid" %}
+  {% endfor %}
+</div>

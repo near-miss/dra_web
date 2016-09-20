@@ -22,8 +22,14 @@ permalink: /newsroom/news/
 
 <div class="grid__wrapper">
   {% for post in site.posts %}
+  {% if post.category == 'News' %}
   {% include news-single.html type="grid" %}
-  
+  {% endif %}
   {% endfor %}
 </div>
 
+<div class="hidden" id="grid__full">
+  {% for post in site.posts %}
+  {% include news-single.html type="grid" %}
+  {% endfor %}
+</div>
