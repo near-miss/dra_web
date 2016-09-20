@@ -3,7 +3,7 @@ title: "Terms of Use"
 layout: single
 sitemap: true
 author_profile: false
-permalink: terms
+permalink: /terms/
 ---
 
 Please read these Terms of Use before using www.nearmissmgmt.com ("the Site") operated by Near-Miss Management LLC ("us", "we", or "our").  By accessing this site, you acknowledge and accept these terms.

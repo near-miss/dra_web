@@ -2,7 +2,7 @@
 title: "How It Works"
 layout: single
 author_profile: true
-permalink: how-it-works
+permalink: /how-it-works/
 
 excerpt: Discover hidden near-misses&trade; from the entire spectrum of process data.
 

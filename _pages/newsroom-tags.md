@@ -1,7 +1,7 @@
 ---
 title: "Newsroom by Tags"
 layout: archive
-permalink: newsroom-tags
+permalink: /newsroom-tags/
 ---
 
 

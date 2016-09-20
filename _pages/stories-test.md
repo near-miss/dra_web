@@ -1,7 +1,7 @@
 ---
 title: "Stories Test"
 layout: archive
-permalink: stories-test
+permalink: /stories-test/
 ---
 
 {% include base_path %}

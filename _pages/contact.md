@@ -2,7 +2,7 @@
 title: "Get In Touch"
 layout: splash
 sitemap: true
-permalink: contact
+permalink: /contact/
 author_profile: false
 ---
 
@@ -10,7 +10,7 @@ author_profile: false
 
 <div class="contact__wrap">
 <div class="contact__map">
-  <img src="{{base.url}}/images/nmm-map.png" alt="Near-Miss Management Location Map">
+  <img src="{{ site.url }}/images/nmm-map.png" alt="Near-Miss Management Location Map">
 </div>
 
 <div class="contact__info">

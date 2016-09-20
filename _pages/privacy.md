@@ -3,7 +3,7 @@ title: "Privacy Policy"
 layout: single
 sitemap: true
 author_profile: false
-permalink: privacy
+permalink: /privacy/
 ---
 
 This privacy policy discloses the privacy practices for www.nearmissmgmt.com ("the Site") operated by Near-Miss Management LLC ("us", "we", or "our"). This privacy policy applies solely to information collected by this web site. It will notify you of the following:

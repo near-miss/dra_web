@@ -1,7 +1,7 @@
 ---
 title: "Industries"
 layout: splash
-permalink: industries
+permalink: /industries/
 ---
 
 {% include base_path %}

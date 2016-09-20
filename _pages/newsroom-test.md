@@ -1,7 +1,7 @@
 ---
 title: "Newsroom"
 layout: archive
-permalink: newsroom-test
+permalink: /newsroom-test/
 ---
 
 

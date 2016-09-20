@@ -3,7 +3,7 @@ title: "FAQs"
 layout: archive
 sitemap: true
 author_profile: false
-permalink: faqs
+permalink: /faqs/
 type: posts
 ---
 

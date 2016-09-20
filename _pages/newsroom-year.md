@@ -1,7 +1,7 @@
 ---
 title: "Newsroom by Year"
 layout: archive
-permalink: newsroom-year
+permalink: /newsroom-year/
 ---
 
 {% include base_path %}

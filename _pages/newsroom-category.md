@@ -1,7 +1,7 @@
 ---
 title: "Newsroom by Category"
 layout: archive
-permalink: newsroom-category
+permalink: /newsroom-category/
 ---
 
 
