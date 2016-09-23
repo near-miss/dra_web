@@ -44,6 +44,37 @@ section {
 }
 
 
+.btn--inverse-news {
+  color: #7a8288 !important;
+  border: 1px solid #9E5697 !important;
+  background-color: #fff;
+
+  &:hover {
+    color: #ffffff !important;
+  }
+}
+
+.btn--inverse-events {
+  color: #7a8288 !important;
+  border: 1px solid #FFC700 !important;
+  background-color: #fff;
+
+  &:hover {
+    color: #ffffff !important;
+  }
+}
+
+.btn--inverse-publications {
+  color: #7a8288 !important;
+  border: 1px solid #68BF1C !important;
+  background-color: #fff;
+
+  &:hover {
+    color: #ffffff !important;
+  }
+}
+
+
 // Header
 // ------------------------------
 
