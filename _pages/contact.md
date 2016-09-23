@@ -10,7 +10,7 @@ author_profile: false
 
 <div class="contact__wrap">
 <div class="contact__map">
-  <img src="{{ site.url }}/images/nmm-map.png" alt="Near-Miss Management Location Map">
+  <img src="{{ site.url }}/images/nmm-map-mid.png" alt="Near-Miss Management Location Map">
 </div>
 
 <div class="contact__info">

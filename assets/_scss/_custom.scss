@@ -715,13 +715,14 @@ section .industries {
   }
 
   &__map {
-    width: span(9);
+    width: auto;
     float: left;
   }
 
   &__info {
-    width: span(3);
-    float: right;
+    width: 210px;
+    margin-left: 10px;
+    float: left;
 
 
     i {
