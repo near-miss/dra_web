@@ -10,8 +10,6 @@ permalink: /newsroom/
 <h1 class="page__title">Learn. Explore. Stay Informed.</h1>
 {: .text-center}
 
-hello5
-
 <div class="button-group filters-button-group">
   <label>Filter by: </label>  
   <button class="btn btn--inverse-news btn--news" data-filter="item-news">News</button>
