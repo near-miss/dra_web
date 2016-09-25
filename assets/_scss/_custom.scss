@@ -100,6 +100,25 @@ section {
   }
 }
 
+.greedy-nav {
+  button {
+    padding-top: 20px;
+    background: none;
+  }
+
+  .hidden-links {
+    margin-top: 54px;
+    margin-right: 16px;
+  }
+
+}
+
+
+#stickyheader {
+  background-color: #ffffff;
+  width: 100%;
+}
+
 
 // Navigation
 // ------------------------------
@@ -273,9 +292,6 @@ section {
 
 .testimonial {
 
-  &:nth-child(even) {
-  }
-
   &:before {
     font-family: FontAwesome;
     content: '\f10d';
@@ -295,8 +311,12 @@ section {
 
 .testimonial__source {
   text-transform: uppercase;
-  // font-size: 0.85rem;
   color: #B0B0B0;
+}
+
+#testimonial {
+  @include push(2 of 12);
+  margin-bottom: 2rem;
 }
 
 
