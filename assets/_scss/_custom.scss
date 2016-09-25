@@ -51,6 +51,7 @@ section {
 
   &:hover {
     color: #ffffff !important;
+    background-color: #9E5697 !important;
   }
 }
 
@@ -61,6 +62,7 @@ section {
 
   &:hover {
     color: #ffffff !important;
+    background-color: #FFC700 !important;
   }
 }
 
@@ -71,6 +73,7 @@ section {
 
   &:hover {
     color: #ffffff !important;
+    background-color: #68BF1C !important;
   }
 }
 
@@ -209,6 +212,11 @@ p.page__meta {
   }
 }
 
+.section-action {
+  text-align: center;
+  display: block;
+  clear: both;
+}
 
 // Feature
 // ----------------------------
@@ -299,6 +307,10 @@ section .industries {
   .archive__grid {
     @include clearfix;
 
+    img {
+      border-radius: 2px;
+    }
+
     .archive__item-title {
       font-weight: 400;
       font-size: $type-size-4;
@@ -311,6 +323,16 @@ section .industries {
       position: relative;
       top: 45px;
       display: block;
+    }
+
+    .archive__item:hover {
+      transform: scale(1.05);
+      transition: 0.2s;
+
+      img {
+        box-shadow: 1px 1px 1px #dadada;
+      }
+
     }
 
   }
