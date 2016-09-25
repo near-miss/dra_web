@@ -8,6 +8,8 @@ permalink: /industries/
 
 
 <h1 class="page__title">Industries We Work With</h1>
+{: .text-center}
+
 <a class="btn btn--inverse btn--large" href="#oil-gas">Oil and Gas</a>
 <a class="btn btn--inverse btn--large" href="#chemical">Chemicals</a>
 <a class="btn btn--inverse btn--large" href="#energy">Energy</a>
@@ -16,6 +18,7 @@ permalink: /industries/
 
 
 <div id="oil-gas" class="archive__item">
+<p></p>
 <h2 class="archive__item-title" style="text-align: left; margin-bottom:-10px">Oil and Gas</h2>
 <img src="/images/industry-01.jpg" alt="Oil and Gas"/>
   <!-- <img src="images/industry-01.jpg" alt="Oil and Gas"> -->
