@@ -8,6 +8,10 @@ permalink: /industries/
 
 
 <h1 class="page__title">Industries We Work With</h1>
+<a class="btn btn--inverse btn--large" href="#oil-gas">Oil and Gas</a>
+<a class="btn btn--inverse btn--large" href="#chemical">Chemicals</a>
+<a class="btn btn--inverse btn--large" href="#energy">Energy</a>
+<a class="btn btn--inverse btn--large" href="#manufacturing">Manufacturing</a>
 {: .text-center}
 
 
