@@ -18,7 +18,6 @@ permalink: /industries/
 
 
 <div id="oil-gas" class="archive__item">
-<p></p>
 <h2 class="archive__item-title" style="text-align: left; margin-bottom:-10px">Oil and Gas</h2>
 <img src="/images/industry-01.jpg" alt="Oil and Gas"/>
   <!-- <img src="images/industry-01.jpg" alt="Oil and Gas"> -->
