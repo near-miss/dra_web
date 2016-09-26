@@ -6,6 +6,7 @@ publication: AIChE Journal
 logo: aichejournal
 source: http://onlinelibrary.wiley.com/doi/10.1002/aic.12642/full
 category: Publications
+keywords: dynamic risk analysis, alarm databases, chemical industry, Bayesian theory, fluid catalytic cracking unit
 type: Journal Article
 ---
 
