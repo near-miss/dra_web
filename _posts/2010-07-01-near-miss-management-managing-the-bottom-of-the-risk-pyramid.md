@@ -7,7 +7,7 @@ type: Industry Magazine Article
 category: Publications
 publication: “Risk & Regulation”, Special Issue on Close Calls, Near-Misses and Early Warnings LSE Publication
 source: http://www.nearmissmgmt.com/Oktem Wong Oktem LSE 2010.pdf
-keywords:
+keywords: risk analysis, near-misses, early warnings, accident prevention
 ---
 Analyses of serious accidents reveal that prior to an accident, a number of related incidents occur with limited or no impact. Collectively, these incidents are called near-misses, close calls, near accidents or accident precursors. Near-misses are often indicators of system failures that can lead to serious outcomes. Therefore, a Near-Miss Management System (NMMS) can be a powerful tool to reduce risk and improve system reliability. The concept of a near-miss can be applied to almost any operation in any industry. 
 
