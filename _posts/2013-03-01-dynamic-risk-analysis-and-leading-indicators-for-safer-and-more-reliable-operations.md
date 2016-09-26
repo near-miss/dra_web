@@ -7,5 +7,6 @@ logo: aichespring2013
 source:
 category: Events
 type: Presentation
+keywords: dynamic risk analysis, leading indicators, safety improvement, chemical industry
 ---
 
