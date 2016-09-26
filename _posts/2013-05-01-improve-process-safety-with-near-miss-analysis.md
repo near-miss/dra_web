@@ -7,6 +7,7 @@ logo: cep
 source: http://www.aiche.org/sites/default/files/cep/20130520.pdf
 category: Publications
 type: Industry Magazine Article
+keywords: safety improvement, near-miss analysis, alarm databases, perspective article
 ---
 
 > Valuable information about unsafe conditions resides in the large alarm databases of distributed control systems and emergency shutdown systems. This overlooked and underutilized information can be analyzed to identify process near-misses and determine the probability of serious accidents.!
