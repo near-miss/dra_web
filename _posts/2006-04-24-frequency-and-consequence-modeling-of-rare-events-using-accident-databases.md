@@ -7,7 +7,7 @@ type: Conference Article
 category: Publications
 logo: aichespring2006
 source: http://www.nearmissmgmt.com/Meel Oktem AIChE Spring Meeting 2006.pdf
-keywords:
+keywords: RMP database, accident prevention, Bayesian theory, operational risk assessment
 ---
 Accident  databases  (NRC,  ATSDR’s,  RMP,  and  others)  contain  records  of incidents  (e.g.,  releases  and  spills)  that  have occurred  in  United  States  chemical  plants during  recent  years.    For  various  chemical  industries,  Kleindorfer  and coworkers summarize  the  accident  frequencies  and  severities  in  the  RMP*Info  database.    Also, Anand  and  coworkers use  data  mining  to  analyze  the  NRC  database  for  Harris County, Texas. 
   
