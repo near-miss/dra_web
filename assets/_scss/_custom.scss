@@ -191,14 +191,15 @@ section {
   // vertical-align: center;
   padding-bottom: 2em;
 
-
 }
+
 
 p.page__meta {
   font-size: $type-size-6;
 }
 
 .page__content {
+  padding-top: 1rem;
 
   p {
     font-size: 0.9rem;
@@ -265,11 +266,6 @@ section {
     // font-size: $type-size-3;
     // font-weight: 600;
   }
-}
-
-
-.page__actions {
-
 }
 
 
@@ -365,10 +361,37 @@ section .industries {
 
 }
 
+section .archive__industries {
+
+  .archive__item {
+    width: span(12);
+    padding-top: 0.2rem;
+    margin-bottom: 45px;
+  }
+
+  img {
+    width: span(10);
+    padding-bottom: 1rem;
+    padding-top: 0.25rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .info {
+    // width: span(8);
+    p {
+      padding-right: 3rem;
+    }
+  }
+}
+
 
 @media only screen and (min-width: 600px) {
 
   section .industries {
+    padding-top: 2rem;
+
     .archive__item {
       @include gallery(6 of 12);
 
