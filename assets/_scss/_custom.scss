@@ -103,14 +103,20 @@ section {
 .greedy-nav {
   button {
     padding-top: 20px;
-    background: none;
+    padding-bottom: 15px;
+    // background: none;
   }
 
   .hidden-links {
-    margin-top: 54px;
-    margin-right: 16px;
+    margin-top: 25px;
+    margin-right: 8px;
   }
 
+}
+
+
+.close .navicon {
+  background: #7a8288;
 }
 
 

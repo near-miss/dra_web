@@ -319,7 +319,7 @@ body:hover .visually-hidden button {
 
 .close .navicon {
   // hide the middle line
-  background: transparent;
+  // background: transparent;
 
   // overlay the lines by setting both their top values to 0
   &:before, &:after{
