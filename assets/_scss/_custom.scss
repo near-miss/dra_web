@@ -316,10 +316,40 @@ section {
   color: #B0B0B0;
 }
 
-#testimonial {
-  @include push(2 of 12);
-  margin-bottom: 2rem;
+#testimonial-wrapper {
+  background-color: #83A3B6;
+  margin-left: -37rem;
+  margin-right: -37rem;
+  padding-top: 3rem;
+  padding-bottom: 5rem;
+
+  .testimonial {
+    margin-bottom: 3rem;
+    text-align: center;
+    color: #ffffff;  
+    font-size: 1.2rem;  
+
+    &__role,
+    &__source {
+      color: #E6EAED;
+      opacity: 0.8;      
+    }
+
+    i {
+      font-size: 2.5rem;
+      opacity: 0.5;
+      padding-right: 10px;
+    }
+  }
+
+  .testimonial:before {
+    display: none;
+  }
+
+
 }
+
+
 
 
 // Insutries
