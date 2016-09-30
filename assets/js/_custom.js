@@ -54,3 +54,19 @@ $(function(){
             }
     });
 });
+
+function setTestimonialWrapperMargin() {
+  var testimonialWrapperWidth = document.getElementById('testimonial-wrapper').offsetWidth;
+  var marginSpace = (document.documentElement.clientWidth - testimonialWrapperWidth) / -2.0;
+  document.getElementById('testimonial-wrapper').style.marginRight = Math.ceil(marginSpace) + 'px';
+  document.getElementById('testimonial-wrapper').style.marginLeft = Math.floor(marginSpace) + 'px';
+}
+
+if (document.getElementById('testimonial-wrapper')) {
+  setTestimonialWrapperMargin();
+  $(window).resize(function() {
+    document.getElementById('testimonial-wrapper').style.marginRight = '0px';
+    document.getElementById('testimonial-wrapper').style.marginLeft = '0px';
+    setTestimonialWrapperMargin();
+  });
+}
