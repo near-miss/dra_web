@@ -3,7 +3,7 @@ title: Early Detection of Process Risks
 date: 2017-01-01
 author: 
 type: Industry Magazine Article
-publication: Other Pub
+publication: Nitrogen+Syngas
 logo: ns
 category: Publications
 source: http://www.bcinsight.com/nitrogen_syngas.asp
