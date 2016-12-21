@@ -1,19 +1,9 @@
 {% include base_path %}
 
-Page Pub: {{ page.publication }}
-<br>
-
-Site data pub: {{ site.data.publications[page.publication] }}
-<br>
-
-Site pub: {{ site.publication }}
-<br>
-
 {% if page.publication and site.data.publications[page.publication] %}
 {% assign publication = site.data.publications[page.publication] %}{% else %}{% assign publication = site.publication %}
 {% endif %}
 
-:P
 
 {% if publication.logo %}
 <div class="publication__avatar">
