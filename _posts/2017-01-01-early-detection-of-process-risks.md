@@ -1,7 +1,6 @@
 ---
 title: Early Detection of Process Risks
 date: 2017-01-01
-author: 
 type: Industry Magazine Article
 publication: Nitrogen+Syngas
 logo: ns

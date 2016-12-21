@@ -1,9 +1,11 @@
 ---
-title:
-date:
-author: 
-publication:
-source:
+title: 
+date: 
+type: 
+publication: 
+logo: 
+category: 
+source: 
 keywords: 
 ---
 
