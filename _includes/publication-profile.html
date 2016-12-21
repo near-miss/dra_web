@@ -1,5 +1,11 @@
 {% include base_path %}
 
+{{ page.publication }}
+
+{{ site.data.publications[page.publication] }}
+
+{{ site.publication }}
+
 {% if page.publication and site.data.publications[page.publication] %}
 {% assign publication = site.data.publications[page.publication] %}{% else %}{% assign publication = site.publication %}
 {% endif %}
