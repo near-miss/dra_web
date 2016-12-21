@@ -5,7 +5,7 @@ author: James E. Leemann, Ph.D.
 type: Industry Magazine Article
 publication: Industrial Safety & Hygiene News
 logo: ishn
-category: News
+category: Publications
 source: http://www.ishn.com/articles/101518-dont-neglect-your-near-misses
 keywords: near-miss reporting, risk assessments, safety reporting
 ---
