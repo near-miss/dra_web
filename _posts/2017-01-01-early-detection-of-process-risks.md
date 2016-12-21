@@ -2,7 +2,7 @@
 title: Test Article
 date: 2016-10-26
 type: Panel Discussion
-publication: Asian Downstream Week
+publication: Just Another Pub
 logo: nmm
 category: Events
 source: http://www.downstream-asia.com/
