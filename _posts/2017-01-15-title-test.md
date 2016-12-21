@@ -4,7 +4,7 @@ date: 2017-01-15
 author: 
 type: Industry Magazine Article
 publication: Nitrogen+Syngas
-logo: ns
+logo: adw
 category: Publications
 source: http://www.bcinsight.com/nitrogen_syngas.asp
 keywords: early risk detection, big data, operational excellence, improved safety and reliability
