@@ -3,7 +3,7 @@ title: Test Article
 date: 2016-10-26
 type: Panel Discussion
 publication: Asian Downstream Week
-logo: NS
+logo: nmm
 category: Events
 source: http://www.downstream-asia.com/
 keywords: panel discussion 
