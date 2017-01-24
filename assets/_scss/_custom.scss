@@ -904,7 +904,8 @@ section .archive__industries {
     margin-top: 5px;
     margin-bottom: 5px;
 
-    &:active {
+    &:active,
+    &:focus {
       border-color: #52adc8;
     }
   }
