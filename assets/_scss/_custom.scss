@@ -903,8 +903,11 @@ section .archive__industries {
     border-radius: 3px;
     margin-top: 5px;
     margin-bottom: 5px;
-  }
 
+    &:active {
+      border-color: #52adc8;
+    }
+  }
 
 }
 
