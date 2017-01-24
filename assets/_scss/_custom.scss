@@ -702,6 +702,7 @@ section .archive__industries {
 .page__footer-text {
   width: span(9);
   float: right;
+  color: #9ba1a6;
 
   @media only screen and (max-width: 800px) {
     width: span(12);
@@ -887,6 +888,26 @@ section .archive__industries {
   }
 
 }
+
+// Forms
+
+
+
+.contact__wrap {
+  form {
+    max-width: 650px;
+  }
+
+  input,
+  textarea {
+    border-radius: 3px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+
+}
+
 
 #masthead__logo-anchor:before {
   background: transparent;
