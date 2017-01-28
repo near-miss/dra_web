@@ -1,5 +1,5 @@
 ---
-title: "Get In Touch"
+title: "Contact Us"
 layout: splash
 sitemap: true
 permalink: /contact/
@@ -8,43 +8,44 @@ author_profile: false
 
 <section>
 
-<div class="contact__wrap">
-  <div class="contact__map">
-    <img src="{{ site.url }}/images/nmm-map-mid.png" alt="Near-Miss Management Location Map">
-  </div>
 
-  <div class="contact__info">
+<h1 class="page__title text-center">How can we help you?</h1>
 
-    <h3>Near-Miss Management</h3>
-    <p>1800 JFK Blvd. Suite 300<br>
-    Philadelphia, PA 19103</p>
-    <p><i class="fa fa-phone"> </i> (267) 603-2378
-    <br>
-    <a href="mailto:info@nearmissmgmt.com"><i class="fa fa-envelope"> </i> info@nearmissmgmt.com</a><br>
+<div class="contact__wrap">  
+
+  <div class="intro">
+
+    <p>Got comments or questions? Send us a message and we'll be in touch.</p>
+   
+    <p><strong>Near-Miss Management</strong><br>
+    1800 JFK Blvd. Suite 300<br />Philadelphia, PA 19103</p>
+    
+    <p>
+      Phone: +1 (267) 603-2378<br>
+      Email: <a href="mailto:info@nearmissmgmt.com">info@nearmissmgmt.com</a> <br>
+      Support: <a href="mailto:support@nearmissmgmt.com">support@nearmissmgmt.com</a>
     </p>
 
-    <a href="https://www.linkedin.com/company/near-miss-management" target="_blank"><i class="fa fa-fw fa-linkedin-square fa-2x"></i></a>
-    <a href="https://twitter.com/{{ site.twitter.username }}" target="_blank"><i class="fa fa-fw fa-twitter-square fa-2x"></i></a>
-
-
-
   </div>
 
 
-  <!-- <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/formspree.css"> -->
 
-  <form method="POST" action="http://formspree.io/info@nearmissmgmt.com">
-    <input type="email" name="email" placeholder="Your Email" required>
-    <input type="text" name="name" placeholder="Your Name">
-    <input type="text" name="company name" placeholder="Company Name">
-    <input type="text" name="_gotcha" style="display:none" />
-    <input type="text" name="phone number" placeholder="Phone Number">
-    <textarea name="message" placeholder="Your message" required></textarea>
-    <button class="btn btn-primary" type="submit">Contact Us</button>
-    <input type="hidden" name="_next" value="http://www.nearmissmgmt.com" />
-    <input type="hidden" name="_subject" value="Near-Miss Contact Form" />
-  </form>
 
+
+  <div class="contact__form">
+
+    <form method="POST" action="http://formspree.io/info@nearmissmgmt.com">
+      <input type="email" name="email" placeholder="Email" required>
+      <input type="text" name="name" placeholder="Full Name">
+      <input type="text" name="company name" placeholder="Company Name">
+      <input type="text" name="_gotcha" style="display:none" />
+      <input type="text" name="phone number" placeholder="Phone Number">
+      <textarea name="message" placeholder="Message" rows="4" required></textarea>
+      <button class="btn btn-primary btn--large" type="submit">Contact Us</button>
+      <input type="hidden" name="_next" value="http://www.nearmissmgmt.com" />
+      <input type="hidden" name="_subject" value="Near-Miss Contact Form" />
+    </form>
+  </div>
 
 </div>
 

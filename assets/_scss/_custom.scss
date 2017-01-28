@@ -894,16 +894,43 @@ section .archive__industries {
 
 
 .contact__wrap {
-  form {
-    max-width: 650px;
+
+  .intro { 
+    float: left;
+    width: span(6);
+    padding-right: 30px;
+
+    h3, p {
+      text-align: left;
+    }
+
+  }
+
+
+
+
+  .contact__form {
+    float: right;
+    width: 100%;
+
+    @include breakpoint($medium) {
+      width: 50%;
+    }
+
+    .btn {
+      margin-top: 10px;
+    }
+
   }
 
   input,
   textarea {
     border-radius: 3px;
     margin-top: 5px;
-    margin-bottom: 5px;
-
+    padding-left: 8px;
+    margin-bottom: 6px;
+    min-height: 48px;
+    resize: none;
     &:active,
     &:focus {
       border-color: #52adc8;
@@ -911,6 +938,7 @@ section .archive__industries {
   }
 
 }
+
 
 
 #masthead__logo-anchor:before {
