@@ -18,11 +18,11 @@ author_profile: false
     <p>Got comments or questions? Send us a message and we will be in touch.</p>
    
     <p><strong>Near-Miss Management LLC</strong><br>
-    1800 JFK Blvd., Suite 300<br />Philadelphia, PA 19103</p>
+    <i class="fa fa-map-marker"> </i> 1800 JFK Blvd., Suite 300<br />&nbsp;&nbsp; Philadelphia, PA 19103</p>
     
     <p>
     <i class="fa fa-phone"> </i> +1 (267) 603-2378 <br>
-    <a href="mailto:info@nearmissmgmt.com"><i class="fa fa-envelope"> </i> info@nearmissmgmt.com</a><br>
+    <i class="fa fa-envelope"> </i> <a href="mailto:info@nearmissmgmt.com"> info@nearmissmgmt.com</a><br>
     </p>
 
   </div>
