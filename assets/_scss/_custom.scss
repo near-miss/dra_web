@@ -896,13 +896,22 @@ section .archive__industries {
 
 .contact__wrap {
 
+  i {
+    opacity: 0.5;
+    padding-right: 2px;
+  }
+
   .intro { 
     float: left;
-    width: span(6);
+    width: span(12);
     padding-right: 30px;
 
     h3, p {
       text-align: left;
+    }
+
+    @include breakpoint($medium) {
+      width: span(6);
     }
 
   }
@@ -912,10 +921,10 @@ section .archive__industries {
 
   .contact__form {
     float: right;
-    width: 100%;
+    width: span(12);
 
     @include breakpoint($medium) {
-      width: 50%;
+      width: span(6);
     }
 
     .btn {

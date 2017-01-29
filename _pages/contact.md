@@ -17,13 +17,19 @@ author_profile: false
 
     <p>Got comments or questions? Send us a message and we will be in touch.</p>
    
-    <p><strong>Near-Miss Management LLC</strong><br>
-    <i class="fa fa-map-marker"> </i> 1800 JFK Blvd., Suite 300<br />&nbsp;&nbsp; Philadelphia, PA 19103</p>
     
+    <h3>Near-Miss Management LLC</h3>
     <p>
-    <i class="fa fa-phone"> </i> +1 (267) 603-2378 <br>
-    <i class="fa fa-envelope"> </i> <a href="mailto:info@nearmissmgmt.com"> info@nearmissmgmt.com</a><br>
+      <i class="fa fa-map-marker" alt="Address"> </i> 1800 JFK Blvd., Suite 300<br />&nbsp;&nbsp;&nbsp; Philadelphia, PA 19103
     </p>
+    <p>
+      <i class="fa fa-phone" alt="Phone"> </i> +1 (267) 603-2378 <br>
+      <i class="fa fa-envelope" alt="Email"> </i> <a href="mailto:info@nearmissmgmt.com"> info@nearmissmgmt.com</a> <br>
+    </p>
+
+    <div class="contact__map">
+      <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.4360681324742!2d-75.17244948452098!3d39.95400217942153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c6316b8373e9%3A0x7d2b3d63bd682375!2sNear-Miss+Management!5e0!3m2!1sen!2sus!4v1485708012528" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+    </div>
 
   </div>
 
