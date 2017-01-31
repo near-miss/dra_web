@@ -857,17 +857,18 @@ section .archive__industries {
 
   &__wrap {
     width: span(12);
+    margin-top: 25px;
   }
 
   &__map {
-    width: auto;
+    min-width: 100%;
     float: left;
   }
 
   &__info {
     width: 220px;
     margin-left: 10px;
-    float: left;
+    float: right;
 
 
     i {
@@ -890,6 +891,7 @@ section .archive__industries {
 
 }
 
+
 // Forms
 
 
@@ -902,12 +904,13 @@ section .archive__industries {
   }
 
   .intro { 
-    float: left;
+    float: right;
     width: span(12);
     padding-right: 30px;
 
     h3, p {
       text-align: left;
+      margin-top: 0;
     }
 
     @include breakpoint($medium) {
