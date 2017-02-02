@@ -858,6 +858,7 @@ section .archive__industries {
   &__wrap {
     width: span(12);
     margin-top: 25px;
+    display: inline-block;
   }
 
   &__map {
@@ -904,9 +905,10 @@ section .archive__industries {
   }
 
   .intro { 
-    float: right;
+    float: left;
     width: span(12);
     padding-right: 30px;
+    margin-bottom: 40px;
 
     h3, p {
       text-align: left;
