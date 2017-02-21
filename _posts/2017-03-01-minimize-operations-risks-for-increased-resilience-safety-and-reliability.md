@@ -1,5 +1,5 @@
 ---
-title: Minimize Operations Risk for Increased Resilience, Safety and Reliability
+title: Minimize Operations Risks for Increased Resilience, Safety and Reliability
 date: 2017-03-01
 author: Ankur Pariyani and Ulku Oktem
 type: Industry Magazine Article
