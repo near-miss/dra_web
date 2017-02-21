@@ -141,3 +141,7 @@ Journal of Risk Finance:
 Nitrogen+Syngas:
   name: "Nitrogen+Syngas"
   logo: ns
+  
+Hydrocarbon Processing:
+  name: "Hydrocarbon Processing"
+  logo: hp
