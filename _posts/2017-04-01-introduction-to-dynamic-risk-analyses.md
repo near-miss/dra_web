@@ -7,7 +7,7 @@ publication: Methods in Chemical Process Safety, Volume 1 (Elsevier)
 logo: mcps
 category: Publications
 source: https://www.elsevier.com/books/methods-in-chemical-process-safety/unknown/978-0-12-811547-3
-keywords: operations risks, precursors, big data, operational excellence, early risk detection
+keywords: chemical process safety, risk, safety, bayesian analysis, process dynamics, alarms, data compaction, steam-methane reforming
 ---
 
 > Automated control and safety systems are prevalent in modern chemical plants, as they help plants return to normal operating conditions when abnormal events occur.  The data associated with these systems contain a wealth of information about near-miss occurrences.  Frequent statistical analyses of the information can help identify problems and prevent accidents and expensive shutdowns.  Such analyses are referred to as dynamic risk analyses.
