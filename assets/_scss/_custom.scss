@@ -225,7 +225,7 @@ p.page__meta {
   padding: 3rem;
 
   img {
-    width: 400px;
+    // width: 400px;
   }
 
 }
@@ -952,6 +952,10 @@ section .archive__industries {
     }
   }
 
+}
+
+.gm-style .place-card {
+  display: none;
 }
 
 
