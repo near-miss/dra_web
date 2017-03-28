@@ -36,19 +36,20 @@ author_profile: false
 
     <p>Got comments or questions? Send us a message and we will be in touch.</p>
 
-    <form method="POST" action="http://formspree.io/info@nearmissmgmt.com">
+    <form id="contact-form">
       <input type="email" name="email" placeholder="Email" required>
       <input type="text" name="name" placeholder="Full Name">
       <input type="text" name="company name" placeholder="Company Name">
       <input type="text" name="_gotcha" style="display:none" />
       <input type="text" name="phone number" placeholder="Phone Number">
       <textarea name="message" placeholder="Message" rows="4" required></textarea>
-      <button class="btn btn-primary btn--large" type="submit">Contact Us</button>
-      <input type="hidden" name="_next" value="http://www.nearmissmgmt.com" />
+      <button class="btn btn-primary btn--large" type="submit" id="submit-button">Contact Us</button>
       <input type="hidden" name="_subject" value="Near-Miss Contact Form" />
     </form>
   </div>
 
+  <div id="success-message" style="display:none;"></div>
+  <div id="error-message" style="display:none;"></div>
 
 
 </div>
