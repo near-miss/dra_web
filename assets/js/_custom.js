@@ -96,7 +96,7 @@ if (document.getElementById('contact-form')) {
       success: function () {
         $(this).find('input[type=text], input[type=email], textarea').val('');
         $successMessage.empty();
-        $successMessage.text('<p>Thank you for your message. We will be in touch shortly.</p>');
+        $successMessage.text('Thank you for your message. We will be in touch shortly.');
         $successMessage.show();
         $contactForm.hide();
         $submit.prop('disabled', false);
@@ -104,9 +104,9 @@ if (document.getElementById('contact-form')) {
       error: function (jqXHR) {
         $errorMessage.empty();
         if (jqXHR && jqXHR.responseJSON && jqXHR.responseJSON.error && jqXHR.responseJSON.error === '_replyto or email field has not been sent correctly')
-          $errorMessage.text('<p>The provided email address is not valid. Please verify that it is correct and try again. If the problem persists, please contact info@nearmissmgmt.com directly.</p>');
+          $errorMessage.text('The provided email address is not valid. Please verify that it is correct and try again. If the problem persists, please contact info@nearmissmgmt.com directly.');
         else
-          $errorMessage.text('<p>An error occurred submitting the contact form. Please try again. If the problem persists, please contact info@nearmissmgmt.com directly.</p>');
+          $errorMessage.text('An error occurred submitting the contact form. Please try again. If the problem persists, please contact info@nearmissmgmt.com directly.');
         $errorMessage.show();
         $submit.prop('disabled', false);
       }

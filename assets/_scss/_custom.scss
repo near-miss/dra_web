@@ -892,6 +892,28 @@ section .archive__industries {
 
 }
 
+.confirmation-message {
+  padding: 10px;
+  border: 1px solid transparent;
+  display: flex;
+  border-radius: 3px;
+}
+
+.alert-info {
+  color: #31708f;
+  background-color: #d9edf7;
+  border-color: #bce8f1;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.alert-warning {
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border-color: #faebcc;
+  padding: 10px;
+  border-radius: 3px;
+}
 
 // Forms
 

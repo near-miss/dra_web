@@ -48,8 +48,10 @@ author_profile: false
     </form>
   </div>
 
-  <div id="success-message" style="display:none;"></div>
-  <div id="error-message" style="display:none;"></div>
+  <div class="confirmation-message">
+    <span id="success-message" class="alert-info" style="display:none;"></span>
+    <span id="error-message" class="alert-warning" style="display:none;"></span>
+  </div>
 
 
 </div>
