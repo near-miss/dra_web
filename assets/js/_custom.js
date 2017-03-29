@@ -103,7 +103,10 @@ if (document.getElementById('contact-form')) {
       },
       error: function (jqXHR) {
         $errorMessage.empty();
-        $errorMessage.text('An error occurred submitting the contact form. Please try again.');
+        if (jqXHR && jqXHR.responseJSON && jqXHR.responseJSON.error && jqXHR.responseJSON.error === '_replyto or email field has not been sent correctly')
+          $errorMessage.text('The provided email address is not valid. Please verify that it is correct and try again. If the problem persists, please contact info@nearmissmgmt.com directly.');
+        else
+          $errorMessage.text('An error occurred submitting the contact form. Please try again. If the problem persists, please contact info@nearmissmgmt.com directly.');
         $errorMessage.show();
         $submit.prop('disabled', false);
       }
