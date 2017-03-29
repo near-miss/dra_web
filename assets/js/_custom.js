@@ -75,6 +75,7 @@ if (document.getElementById('contact-form')) {
   var $submit = $('#submit-button');
   var $successMessage = $('#success-message');
   var $errorMessage = $('#error-message');
+  var $contactForm = $('.contact__form');
   $('#contact-form').submit(function (e) {
     $successMessage.hide();
     $errorMessage.hide();
@@ -82,14 +83,13 @@ if (document.getElementById('contact-form')) {
       e.preventDefault();
     else
       e.returnValue = false;
-    console.log('hello??');
     $submit.prop('disabled', true);
     var formValues = {};
     $.each($(this).serializeArray(), function (i, field) {
       formValues[field.name] = field.value;
     });
     $.ajax({
-      url: 'http://formspree.io/info@nearmissmgmt.com',
+      url: 'https://formspree.io/info@nearmissmgmt.com',
       method: 'POST',
       data: formValues,
       dataType: 'json',
@@ -98,6 +98,7 @@ if (document.getElementById('contact-form')) {
         $successMessage.empty();
         $successMessage.text('Thank you for your message. We will be in touch shortly.');
         $successMessage.show();
+        $contactForm.hide();
         $submit.prop('disabled', false);
       },
       error: function (jqXHR) {
