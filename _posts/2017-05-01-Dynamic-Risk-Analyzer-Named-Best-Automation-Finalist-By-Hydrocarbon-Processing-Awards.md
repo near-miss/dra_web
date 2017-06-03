@@ -17,14 +17,13 @@ that its Dynamic Risk Analyzer™ (DRA) software has been named a Best Automatio
 Hydrocarbon Processing Awards. The Awards, sponsored by the editors of Hydrocarbon Processing, honors the
 downstream energy segment's leading innovations, as well as outstanding personal contributions to the industry.
 
-Developed uniquely for the process and energy industries, Dynamic Risk Analyzer™ (DRA) is a first-of-itskind
+Developed uniquely for the process and energy industries, Dynamic Risk Analyzer™ (DRA) is a first-of-its-kind
 early risk detection software platform that identifies process problems at their initiation stage – enabling
 operating teams to take corrective actions proactively, and prevent losses. It delivers advanced warnings on
 hidden issues typically days or weeks before the alarms, when the process is still operating under normal
 conditions per standard indicators. What makes DRA unique is its ability to rip through the entire spectrum of
 process data, uncovering problems, long before humans or alarms can. Ultimately, DRA reduces unexpected
 shutdowns and process failures, improves safety and reliability, and boosts operating teams’ productivity.
-Customer case studies illustrating the benefits are available at http://nearmissmgmt.com/newsroom/.
 
 "We are honored to have Dynamic Risk Analyzer™ be recognized by the editors of Hydrocarbon Processing as
 a Best Automation Finalist,” stated Dr. Ulku Oktem, CEO and Co-Founder of Near-Miss Management. "This
