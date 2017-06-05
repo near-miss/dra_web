@@ -14,11 +14,17 @@ Near-Miss Management participated in a panel discussion with PETRONAS at the 201
 **Panel Discussion Overview**
 
 Track: Operational Excellence and Asset Optimization
+
 Time: Wednesday, October 26, 2016, 4:00 - 5:00 pm
+
 Speakers: Datuk Kamarudin Zakaria, Petronas Global Technology Solutions
+
           Aslam Khan, Asean Bintulu Fertilizer
+          
           Nasrul Rahmat, Petronas Melaka Refinery
+          
           Na'im Zafarullah, Petronas Melaka Refinery
+
 Moderator: Dr. Ulku Oktem, Near-Miss Management
 
 This panel discussion centered on the role of proactive risk management in achieving ultimate operational excellence. To be proactive, one needs to know what risks are developing in the operations, what stages they are in and which areas are affected. The panelists discussed the concept and tools that provide peripheral vision to become proactive, and presented examples of successfully achieving high level of operational excellence.
