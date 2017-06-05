@@ -12,7 +12,8 @@ Near-Miss Management participated in a panel discussion with PETRONAS at the 201
 
 
 **Panel Discussion Overview**
-Track: OPERATIONAL EXCELLENCE AND ASSET OPTIMIZATION
+
+Track: Operational Excellence and Asset Optimization
 Time: Wednesday, October 26, 2016, 4:00 - 5:00 pm
 Speakers: Datuk Kamarudin Zakaria, Petronas Global Technology Solutions
           Aslam Khan, Asean Bintulu Fertilizer
@@ -24,4 +25,5 @@ This panel discussion centered on the role of proactive risk management in achie
 
 
 **About Asian Downstream Week**
+
 The Annual Asian Downstream Week is a two day technical conference and exhibition organised annually by World Refining Association (WRA) as part of the Singapore International Energy Week (SIEW).  In its 9th year, the region’s largest downstream-focused conference and exhibition, is designed to help refiners, petrochemical operators and chemicals players understand how digital and process technologies can help them achieve overall operational excellence. Digitalisation helps to improve asset integrity, with predictive maintenance, reduce downtime with real-time analytics, improve process efficiency through automated planning and manufacturing and monitor and control energy consumption. The programme is also packed with thought provoking keynote addresses, high-level panel discussions and in-depth case studies. The event continues to be the region’s largest downstream-focused conference and exhibition and the premier platform for learning, networking, seeking partnerships, and building key business relationships.
