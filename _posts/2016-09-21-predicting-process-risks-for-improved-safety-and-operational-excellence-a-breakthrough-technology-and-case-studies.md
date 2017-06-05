@@ -14,6 +14,7 @@ Near-Miss Management co-presented a paper with Asean Bintulu Fertilizer (ABF) at
 **Presentation Overview**
 
 Time: Wednesday, September 21, 2016, 8:30 - 9:00 am
+
 Speaker: Aslam Khan, Production Manager, ABF
 
 Asean Bintulu Fertilizer (ABF), a subsidiary of PETRONAS, produces 700kMt (772,000 short tons) of Urea annually. Due to the nature of materials involved and interdependency between its operating units, minimizing process safety and reliability risks is the highest priority for ABF’s operating team. The use of a new software, Dynamic Risk Analyzer&trade; (DRA), based on proprietary predictive risk analysis, is outlined in this presentation. DRA allows the operating team to assess the risk level of its plant operations and identify early indicators of developing process risks daily. The result – processes are operated with reduced risk profiles and improved capital effectiveness. Since the adoption of DRA, ABF has improved its organizational culture and workflow that involve day-to-day proactive assessment of process risks at their early stages. Real-life operations issues that were detected and addressed early on are discussed.
