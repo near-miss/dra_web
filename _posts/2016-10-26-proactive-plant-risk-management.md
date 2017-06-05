@@ -23,7 +23,7 @@ Aslam Khan, Asean Bintulu Fertilizer
 
 Nasrul Rahmat, Petronas Melaka Refinery
 
-Na'im Zafarullah, Petronas Melaka Refinery
+Naim Zafarullah, Petronas Melaka Refinery
 
 Moderator: Dr. Ulku Oktem, Near-Miss Management
 
