@@ -11,7 +11,8 @@ keywords: presentation, aiche, ammonia plants, safety
 Near-Miss Management co-presented a paper with Asean Bintulu Fertilizer (ABF) at the 61st Annual Safety in Ammonia Plants and Related Facilities Symposium held in Denver, CO from September 18-22, 2016.  
 
 
-**Presentation Overview:**
+**Presentation Overview**
+
 Time: Wednesday, September 21, 2016, 8:30 - 9:00 am
 Speaker: Aslam Khan, Production Manager, ABF
 
@@ -19,4 +20,5 @@ Asean Bintulu Fertilizer (ABF), a subsidiary of PETRONAS, produces 700kMt (772,0
 
 
 **About 61st Annual Safety in Ammonia Plants and Related Facilities Symposium**
+
 Organized by AIChE’s Ammonia Safety Committee, the annual symposium is dedicated to improving the safety of plants that manufacture ammonia and related chemicals, such as urea, nitric acid, ammonia nitrate, and methanol. More than 400 attendees - including plant safety personnel, plant managers, and process engineers representing a spectrum of industries - are expected to participate in the symposium, where they will share technological advances and discuss strategies for improving plant safety, maintenance, and management. Company leaders and practitioners will describe how their organizations avoid or manage potential plant accidents, and present solutions to a variety of safety engineering problems. Participants will also receive an overview of products available to improve safety measures.
