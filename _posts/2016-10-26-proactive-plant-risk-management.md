@@ -17,13 +17,15 @@ Track: Operational Excellence and Asset Optimization
 
 Time: Wednesday, October 26, 2016, 4:00 - 5:00 pm
 
-Speakers: Datuk Kamarudin Zakaria, Petronas Global Technology Solutions
+Speakers: 
+
+Datuk Kamarudin Zakaria, Petronas Global Technology Solutions
 
 Aslam Khan, Asean Bintulu Fertilizer
 
-Nasrul Rahmat, Petronas Melaka Refinery
+  Nasrul Rahmat, Petronas Melaka Refinery
 
-Naim Zafarullah, Petronas Melaka Refinery
+  Naim Zafarullah, Petronas Melaka Refinery
 
 Moderator: Dr. Ulku Oktem, Near-Miss Management
 
