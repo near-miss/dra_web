@@ -2,7 +2,7 @@
 title: A Breakthrough Technology and Case Studies for Early Detection of Process Risks
 date: 2017-05-25
 type: Presentation
-publication: AFPM Reliability and Maintenance Conference
+publication: 2017 AFPM Reliability and Maintenance Conference
 logo: 2017afpm
 category: Events
 source: https://www2.afpm.org/forms/meeting/Microsite/RMC17
