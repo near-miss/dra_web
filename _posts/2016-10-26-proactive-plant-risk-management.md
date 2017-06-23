@@ -8,7 +8,7 @@ category: Events
 source: http://www.downstream-asia.com/
 keywords: panel discussion, operational excellence, safety, reliability, asset optimization, proactive risk management
 ---
-Near-Miss Management participated in a panel discussion with PETRONAS at the 2016 Asian Downstream Week, held in Singapore from October 26-27, 2016.
+Near-Miss Management participated in a panel discussion with experts from an Oil & Gas Major at the 2016 Asian Downstream Week, held in Singapore from October 26-27, 2016.
 
 
 **Panel Discussion Overview**
@@ -16,16 +16,6 @@ Near-Miss Management participated in a panel discussion with PETRONAS at the 201
 *Track:* Operational Excellence and Asset Optimization
 
 *Time:* Wednesday, October 26, 2016, 4:00 - 5:00 pm
-
-*Speakers:* 
-
-Datuk Kamarudin Zakaria, Petronas Global Technology Solutions
-
-Aslam Khan, Asean Bintulu Fertilizer
-
-Nasrul Rahmat, Petronas Melaka Refinery
-
-Naim Zafarullah, Petronas Melaka Refinery
 
 *Moderator:* Dr. Ulku Oktem, Near-Miss Management
 
