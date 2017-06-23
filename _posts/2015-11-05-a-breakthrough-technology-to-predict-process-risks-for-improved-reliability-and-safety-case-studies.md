@@ -9,4 +9,4 @@ category: Events
 source: http://www.aiche.org/ccps/conferences/ccps-global-summit-on-process-safety/2015
 keywords: dynamic risk analyzer, breakthrough technology, safety, reliability
 ---
-Near-Miss Management made a joint presentation with an Oil & Gas company (customer) at the 2nd CCPS Global Summit on Process Safety in Kuala Lumpur, Malaysia.
+Near-Miss Management co-presented a paper with an Oil & Gas company (customer) at the 2nd CCPS Global Summit on Process Safety in Kuala Lumpur, Malaysia.
