@@ -8,7 +8,7 @@ category: Events
 source: http://www.aiche.org/conferences/annual-safety-ammonia-plants-and-related-facilities-symposium/2016
 keywords: presentation, aiche, ammonia plants, safety
 ---
-Near-Miss Management co-presented a paper with an Oil & Gas Major (customer) at the 61st Annual Safety in Ammonia Plants and Related Facilities Symposium, held in Denver, CO from September 18-22, 2016.  
+Near-Miss Management co-presented a paper with a global Oil & Gas company (customer) at the 61st Annual Safety in Ammonia Plants and Related Facilities Symposium, held in Denver, CO from September 18-22, 2016.  
 
 
 **Presentation Overview**
