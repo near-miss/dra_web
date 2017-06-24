@@ -8,7 +8,7 @@ category: Events
 source: https://www2.afpm.org/forms/meeting/Microsite/RMC17
 keywords: presentation, operational excellence, safety, reliability, early detection, proactive risk management
 ---
-Near-Miss Management co-presented a paper with an Oil & Gas Major (customer) at the 2017 AFPM Reliability and Maintenance conference, held in New Orleans, LA from May 23-26, 2017. The Head of Manufacturing talked about their leadership in establishing a proactive work environment and discussed the successful integration and impact of Dynamic Risk Analyzer technology in their Downstream Operations.    
+Near-Miss Management co-presented a paper with a global Oil & Gas company (customer) at the 2017 AFPM Reliability and Maintenance conference, held in New Orleans, LA from May 23-26, 2017. The Head of Manufacturing talked about their leadership in establishing a proactive work environment and discussed the successful integration and impact of Dynamic Risk Analyzer technology in their Downstream Operations.    
 
 
 **Presentation Overview**
