@@ -8,7 +8,7 @@ category: Events
 source: http://www.downstream-asia.com/
 keywords: panel discussion, operational excellence, safety, reliability, asset optimization, proactive risk management
 ---
-Near-Miss Management participated in a panel discussion with experts and end-users from an Oil & Gas Major at the 2016 Asian Downstream Week, held in Singapore from October 26-27, 2016.
+Near-Miss Management participated in a panel discussion with experts and end-users (of DRA) from a global Oil & Gas company at the 2016 Asian Downstream Week, held in Singapore from October 26-27, 2016.
 
 
 **Panel Discussion Overview**
