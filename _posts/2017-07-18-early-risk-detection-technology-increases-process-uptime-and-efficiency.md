@@ -8,7 +8,7 @@ category: Events
 source: http://www.hpirpc.com/events/irpc-americas-2017/custom-17-e0f0d02440034893a679dd52c594fb4e.aspx
 keywords: operational excellence, safety, reliability, early detection, uptime, efficiency
 ---
-Near-Miss Management will present a paper at the 2017 IRPC Americas Conference, to be held in Houston, TX on July 18-19, 2017. NMM is also pleased to be a co-sponsor of the Welcome Reception on July 18th (Day 1).
+Near-Miss Management (NMM) will present a paper at the 2017 IRPC Americas Conference, to be held in Houston, TX on July 18-19, 2017. NMM is also pleased to be a co-sponsor of the Welcome Reception on July 18th (Day 1).
 
 **Presentation Overview**
 
