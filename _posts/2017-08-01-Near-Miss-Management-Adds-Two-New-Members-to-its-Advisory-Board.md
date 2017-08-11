@@ -7,6 +7,7 @@ logo: nmm
 category: News
 type: Company News
 source:  
+keywords: business leadership, advisory board
 ---
 
 > Near-Miss Management expands its advisory board for business leadership and cross-industry guidance.
