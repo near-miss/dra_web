@@ -2,7 +2,7 @@
 title: "Near-Miss Management Co-founder Receives AIChE's 35 Under 35 Award"
 date: 2017-08-10
 author: 
-publication: Near-Miss Management
+publication: AIChE 35 Under 35 Awards
 logo: nmm
 category: News
 type: Company News
