@@ -1,5 +1,5 @@
 ---  
-title: "Near-Miss Management Adds Two New Members to its Advisory Board"
+title: Near-Miss Management Adds Two New Members to its Advisory Board
 date: 2017-08-01
 author: 
 publication: Near-Miss Management
