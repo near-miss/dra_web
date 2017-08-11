@@ -1,5 +1,5 @@
 ---  
-title: "Near-Miss Management Co-founder Receives AIChE's 35 Under 35 Award"
+title: Near-Miss Management Co-founder Receives AIChE's 35 Under 35 Award
 date: 2017-08-10
 author: 
 publication: AIChE 35 Under 35 Awards
@@ -7,6 +7,7 @@ logo: 35under35
 category: News
 type: Company News
 source: https://www.aiche.org/about/press/releases/08-08-2017/aiches-35-under-35-award-celebrates-outstanding-young-professionals 
+keywords: AIChE, Safety, Award, Chemical Engineering
 ---
 
 Near-Miss Management (NMM) is pleased to announce that Dr. Ankur Pariyani, Co-founder and Chief Innovation Officer, is a recipient of the 35 Under 35 Award from the American Institute of Chemical Engineers (AIChE).
