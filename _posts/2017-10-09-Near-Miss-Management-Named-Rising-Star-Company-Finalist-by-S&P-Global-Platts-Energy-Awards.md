@@ -21,4 +21,5 @@ Developed specifically for the process and energy industries, NMM’s Dynamic Ri
 Winners will be announced at the 2017 S&P Global Platts Global Energy Awards black-tie dinner on December 7th in New York City.  
 
 **About S&P Global Platts**
+
 Founded in 1909, S&P Global Platts is the commodities information arm of S&P Global and a premier source of benchmark price references, with news, data and information coverage spanning biofuels, carbon emissions, coal, electricity, oil, natural gas, metals, nuclear power, petrochemicals, shipping and sugar. S&P Global Platts is a division of S&P Global (NYSE: SPGI), which provides essential intelligence for individuals, companies and governments to make decisions with confidence. For more information, visit www.platts.com. 
