@@ -9,7 +9,6 @@ type: Company News
 source: https://geaweb.platts.com/Finalists/Finalists2017
 keywords: S&P, Award, Rising Star, Innovation, Operational Excellence, Growth, Vision
 ---
-
 > Near-Miss Management recognized for pioneering a new era of industrial software platforms that detect early risk indicators, enabling proactive risk mitigation for process and energy industries.
 
 Near-Miss Management (NMM), today announced that the technological breakthrough of its Dynamic Risk Analyzer™ (DRA) software, and the resulting impact it is having on the process industries, led to their being named a ‘Rising Star Company’ finalist by the S&P Global Platts Global Energy Awards. Established in 1999 and often described as ‘the Oscars of the energy industry,’ the S&P Global Energy Awards highlight corporate and individual innovation, leadership and superior performance, with this year’s nominees representing 28 countries. The Rising Star Company category focuses on the company’s innovation, operational excellence, scope, growth and vision.
