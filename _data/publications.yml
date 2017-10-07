@@ -37,7 +37,7 @@ AIChE ChEnected:
 2014 AIChE Spring Meeting:
   name: "2014 AIChE Spring Meeting"
   logo: aichespring2014
-  
+   
 AFPM Annual Meeting:
   name: "AFPM Annual Meeting"
   logo: afpm
@@ -169,3 +169,9 @@ Hydrocarbon Engineering:
 AIChE 35 Under 35 Awards:
   name: "AIChE 35 Under 35 Awards"
   logo: 35under35
+  
+2017 S&P Global Platts Energy Awards:
+  name: "2017 S&P Global Platts Energy Awards"
+  logo: spg
+
+  
