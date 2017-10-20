@@ -6,7 +6,7 @@ publication: 2017 Asian Downstream Summit
 logo: ads2017
 category: Events
 type: Presentation
-source: www.downstream-asia.com
+source: http://downstream-asia.com
 keywords: Asia, Oil and Gas, Digitalization, Operational Excellence
 ---
 Near-Miss Management (NMM) is pleased to be Silver Sponsor and Exhibitor at the 2017 Asian Downstream Summit, in Singapore from October 25-26th, 2017. NMM participation is accompanied by two presentations: (a) Operations Engineer, global oil & gas company, will present the real-life use and benefits of Dynamic Risk Analyzer, and (b) NMM co-founder will discuss the rise and impact of early risk detection systems in process operations. 
