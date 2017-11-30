@@ -2,8 +2,8 @@
 title: Near-Miss Management Co-founder Featured on Chestnut Street Ventures' Entrepreneur Spotlight
 date: 2017-11-14
 author: 
-publication: Near-Miss Management
-logo: nmm
+publication: Chestnut Street Ventures
+logo: chestnutstreet
 category: News
 type: Company News
 source: https://medium.com/@alumniventures/preventing-close-calls-at-industrial-plants-with-near-miss-d3fdfa15fea0 
