@@ -11,7 +11,7 @@ keywords: AIChE, Presentation, 110th Anniversary
 ---
 Near-Miss Management’s Co-Founder, Dr. Ankur Pariyani, will present an invited talk at AIChE’s 110th Anniversary Celebration on maximizing uptime, efficiency, and safety of industrial operations through early risk detection.  This special session is part of 2018 AIChE Annual Meeting to be held in Pittsburgh, PA.
 
-Of the five speakers selected, Dr. Pariyani, will illustrate how new technologies are being utilized to extract insights from process data to improve plant productivity and boost proactive operating culture.
+Of the five speakers selected, Dr. Pariyani, will illustrate how new technologies are being utilized to extract insights from process data to improve plant productivity and boost a proactive operating culture.
 
 **Presentation Overview**
 
