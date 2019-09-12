@@ -9,7 +9,7 @@ type: Presentation
 source: https://www.icheme.org/career/events/hazards-asia-pacific/ 
 keywords: Hazards Asia Pacific, Presentation, Process Safety
 ---
-Near-Miss Management’s EVP South East Asia, Datuk Kamarudin Zakaria, will present a technical presentation at 2019 Hazards Asia Pacific conference in Kuala Lumpur, Malaysia. Of the few speakers selected, Datuk Zakaria will illustrate how new data analytics technologies are being utilized to improve plant safety and boost a proactive operating culture. 
+Near-Miss Management’s EVP South East Asia, Datuk Kamarudin Zakaria, will present a technical presentation at the 2019 Hazards Asia Pacific conference in Kuala Lumpur, Malaysia. Of the few speakers selected, Datuk Zakaria will illustrate how new data analytics technologies are being utilized to improve plant safety and boost a proactive operating culture. 
 
 TITLE: Taking Process Safety Performance to the Next Level through Early Risk Detection Technology 
 
