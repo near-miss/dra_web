@@ -17,7 +17,7 @@ TIME: Tuesday, September 24, 2019, 3:45 PM – 4:25 PM
 
 VENUE: DoubleTree by Hilton Kuala Lumpur
 
-Near-Miss Management (NMM) is also pleased to be a Silver Sponsor of the conference and to support such Process Safety initiatives. 
+Near-Miss Management is also pleased to be a Silver Sponsor of the conference and to support such Process Safety initiatives. 
 
 
 **About 2019 Hazards Asia Pacific**
