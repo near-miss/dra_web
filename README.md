@@ -9,7 +9,7 @@ Dependencies
 
 `sudo gem install bundler`
 
-`bundle install`
+`bundle install --path vendor/bundle`
 
 `bundle update`
 
