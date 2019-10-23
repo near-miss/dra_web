@@ -11,7 +11,7 @@ body {
   border-color: #bec9cf;
 }
 
-section { 
+section {
   padding-bottom: 2rem;
 }
 
@@ -83,8 +83,8 @@ section {
 // ------------------------------
 
 // .masthead__inner-wrap {
-//   padding-top: 2px !important;  
-//   padding-bottom: 2px !important;  
+//   padding-top: 2px !important;
+//   padding-bottom: 2px !important;
 // }
 
 
@@ -235,7 +235,7 @@ p.page__meta {
   text-align: center;
 
   h1 {
-    font-size: $type-size-2; 
+    font-size: $type-size-2;
   }
 }
 
@@ -317,6 +317,19 @@ section {
   color: #B0B0B0;
 }
 
+.usage {
+  font-family: $sans-serif;
+  color: #ffffff;
+}
+
+.usage__stat {
+  display: inline-block;
+
+  &:not(:last-of-type) {
+    margin-right: 3em;
+  }
+}
+
 #testimonial-wrapper {
   background-color: #83A3B6;
   margin-left: 0;
@@ -324,15 +337,45 @@ section {
   padding-top: 3rem;
   padding-bottom: 5rem;
 
+  .usage {
+    font-size: 1.25rem;
+    text-align: center;
+    margin-bottom: 1.25rem;
+  }
+
+  .usage__header {
+    width: 100%;
+    font-size: 1.5em;
+  }
+
+  .usage__number {
+    font-size: 2em;
+  }
+
+  .usage__icon {
+    margin-right: 0.25em;
+    font-size: 2em;
+  }
+
+  .usage__icon--factory {
+    width: 1em;
+    height: 1em;
+    vertical-align: baseline;
+
+    /* We're hacking around a bit with this because it's a custom icon. A good thing
+     * to do in the future would be to check if it can be converted to an icon
+     * font and combined with font-awesome. Or to adopt a more standard icon. */
+    margin-bottom: -0.05em;
+  }
+
   .testimonial {
     margin-bottom: 3rem;
     text-align: center;
     color: #ffffff;
 
     &__quote {
-      font-size: 1.4rem;    
+      font-size: 1.4rem;
     }
-    
 
     &__role {
       color: #E6EAED;
@@ -358,7 +401,38 @@ section {
     display: none;
   }
 
+}
 
+@media only screen and (max-width: 600px) {
+  #testimonial-wrapper {
+    .usage__stat {
+      display: block;
+      margin-right: 0;
+    }
+  }
+}
+
+
+@media only screen and (min-width: 1200px) {
+  #testimonial-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    .usage {
+      max-width: 45%;
+      margin-right: 2em;
+    }
+
+    .testimonial {
+      max-width: 50%;
+    }
+
+    .section-action {
+      width: 100%;
+    }
+  }
 }
 
 
@@ -527,24 +601,24 @@ section .archive__industries {
 
   }
 
-  .btn--events.is-checked { 
+  .btn--events.is-checked {
     background-color: #FFC700;
     color: #ffffff !important;
 
   }
 
-  .btn--news.is-checked { 
+  .btn--news.is-checked {
     background-color: #9E5697;
     color: #ffffff !important;
-    
+
   }
 
-  .btn--publications.is-checked { 
+  .btn--publications.is-checked {
     background-color: #68BF1C;
     color: #ffffff !important;
-    
+
   }
-  
+
 }
 
 .sidebar {
@@ -653,7 +727,7 @@ section .archive__industries {
 
 @media only screen and (min-width: 600px) {
 
-  .team__item { 
+  .team__item {
     @include gallery(6 of 12);
   }
 }
@@ -678,7 +752,7 @@ section .archive__industries {
   width: span(3);
   float: left;
   padding-top: 0.65rem;
-  
+
   img:last-child{
     display:none;
   }
@@ -687,7 +761,7 @@ section .archive__industries {
     display:none;
   }
 
-  &:hover img:last-child{ 
+  &:hover img:last-child{
     display:inline-block;
   }
 
@@ -763,7 +837,7 @@ section .archive__industries {
 
 }
 
-.page__footer-copyright { 
+.page__footer-copyright {
   width: span(12);
   display: inline-block;
   text-align: center;
@@ -796,7 +870,7 @@ section .archive__industries {
   // background-color: red;
 }
 
-// Branding 
+// Branding
 
 // .brand {
 //   display: inline-flex;
@@ -831,7 +905,7 @@ section .archive__industries {
 // }
 
 
-// Branding 
+// Branding
 
 
 .brand {
@@ -926,7 +1000,7 @@ section .archive__industries {
     padding-right: 2px;
   }
 
-  .intro { 
+  .intro {
     float: left;
     width: span(12);
     padding-right: 30px;
