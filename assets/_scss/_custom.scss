@@ -290,9 +290,10 @@ section {
 
 .usage__stat {
   display: inline-block;
+  text-align: left;
 
   &:not(:last-of-type) {
-    margin-right: 3em;
+    margin-right: 5em;
   }
 }
 
@@ -303,36 +304,48 @@ section {
   padding-top: 3rem;
   padding-bottom: 5rem;
 
-  .usage {
-    font-size: 1.25rem;
-    text-align: center;
-    margin-bottom: 1.25rem;
+  .footprint__title {
+    width: 100%;
+    color: #ffffff;
+    margin-top: 0;
+    border-bottom: none;
+    margin-bottom: 1.5em;
   }
 
-  .usage__header {
-    width: 100%;
-    font-size: 1.5em;
+  .usage {
+    font-size: 1.25rem;
+    margin-bottom: 1.25rem;
+    display: flex;
+    justify-content: center;
   }
 
   .usage__number {
-    font-size: 2em;
+    font-size: 2.5em;
+    line-height: 1;
   }
 
   .usage__type {
-    display: block;
     margin-bottom: 2rem;
+    font-size: 1em;
     text-transform: uppercase;
+
+    &::before {
+      content: '\A';
+      white-space: pre;
+    }
   }
 
-
   .usage__icon {
-    margin-right: 0.25em;
-    font-size: 3em;
+    font-size: 4.3em;
+    float: left;
+    padding: 0.1em;
+    margin-top: -0.1em;
   }
 
   .usage__icon--factory {
-    width: 1em;
-    height: 1em;
+    width: 1.1em;
+    height: 1.1em;
+    padding: 0.1em;
     vertical-align: baseline;
 
     /* We're hacking around a bit with this because it's a custom icon. A good thing
@@ -382,9 +395,22 @@ section {
     .page__section-subtitle {
       display: block;
     }
+
     .usage__stat {
       display: block;
-      margin-right: 0;
+      margin-right: 2em;
+      margin-bottom: 1em;
+      font-size: 1em;
+      min-width: 5em;
+
+      &:not(:last-of-type) {
+        margin-bottom: 2em;
+      }
+    }
+
+    .usage {
+      margin-left: 0;
+      flex-wrap: wrap;
     }
   }
 }
@@ -394,8 +420,8 @@ section {
   #testimonial-wrapper {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
     justify-content: center;
+    margin-top: 1.5em;
 
     .page__section-subtitle {
       display: block;
@@ -403,12 +429,15 @@ section {
 
 
     .usage {
-      max-width: 45%;
-      margin-right: 2em;
+      margin-left: 0;
+    }
+
+    .usage__stat {
+      margin-right: 5em;
     }
 
     .testimonial {
-      max-width: 50%;
+      max-width: 35%;
     }
 
     .section-action {
