@@ -1,9 +1,9 @@
 ---
-title: "Resolve Your Process Risks at Their Initiation Stage" 
+title: "Resolve Your Process Risks at Their Initiation Stage"
 layout: splash
 excerpt: Dynamic Risk Analyzer&trade; is transforming the way industrial operations identify and reduce their risks – by providing early indicators of developing risks and allowing for preventive actions.
 
-header: 
+header:
   overlay_image: splash-01.jpg
   overlay_filter: 0.4
   cta_label: "Learn More"
@@ -37,8 +37,22 @@ feature_row:
   {% include feature_row %}
 
 
+<div class="footprint" id="testimonial-wrapper">
+  <h2 class="page__section-title footprint__title">Our Footprint</h2>
 
-<div id="testimonial-wrapper">
+  <div class="usage">
+    <div class="usage__stat">
+      <img class="usage__icon usage__icon--factory" src="/assets/fonts/oil-refinery-svgrepo-com.png" aria-hidden="true" alt="factory icon" />
+      <span class="usage__number">45+</span>
+      <span class="usage__type">Plants</span>
+    </div>
+    <div class="usage__stat">
+      <i class="fa fa-user usage__icon" aria-hidden="true"></i>
+      <span class="usage__number">3,000+</span>
+      <span class="usage__type">Users</span>
+    </div>
+  </div>
+
   <div class="testimonial">
     <div class="testimonial__quote"><i class="fa fa-quote-left"></i> DRA helped us boost our uptime by 4% and save millions in unplanned shutdowns, in its first year.</div>
     <div class="testimonial__role">Operations Manager</div>
@@ -88,7 +102,7 @@ feature_row:
         <img src="images/industry-04.jpg" alt="Manufacturing">
       </a>
     </div>
-  
+
   </div>
 </section>
 
@@ -99,23 +113,13 @@ feature_row:
 </div>
 
 
-<!-- <h2 class="page__section-title">Try DRA</h2>
-
-<form>
-  <input type="text" name="name" placeholder="Company Name">
-  <input type="email" name="email" placeholder="Email Address">
-</form>
-
-<button class="btn btn--info btn--large">Request a Demo</button>
-
- -->
 
 <h2 class="page__section-title">Recent News</h2>
 <br>
 <div class="grid__wrapper">
   {% for post in site.posts limit:6 %}
   {% include news-single.html type="grid" %}
-  
+
   {% endfor %}
 </div>
 
@@ -125,4 +129,3 @@ feature_row:
 <div class="section-action">
     <a href="/newsroom/" class="btn btn--inverse btn--large">View All Posts</a>
 </div>
-

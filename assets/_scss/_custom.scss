@@ -5,13 +5,10 @@
 // ------------------------------
 
 body {
-  // background-color: #5D7888;
-  // color: darken(#83A3B6,25%);
-  // color: #bec9cf;
   border-color: #bec9cf;
 }
 
-section { 
+section {
   padding-bottom: 2rem;
 }
 
@@ -20,11 +17,6 @@ section {
   margin-bottom: 3rem;
 }
 
-
-
-.masthead {
-  // background-color: red;
-}
 
 
 .btn--light-outline {
@@ -82,12 +74,6 @@ section {
 // Header
 // ------------------------------
 
-// .masthead__inner-wrap {
-//   padding-top: 2px !important;  
-//   padding-bottom: 2px !important;  
-// }
-
-
 
 .masthead__menu-item.active a {
   color: #FBBD49;
@@ -127,22 +113,6 @@ section {
 }
 
 
-// Navigation
-// ------------------------------
-
-.greedy-nav .visible-links {
-  // margin: 0 auto;
-}
-
-.greedy-nav {
-  // background-color: red;
-}
-
-
-.masthead__menu {
-
-}
-
 
 
 // Page
@@ -157,13 +127,9 @@ section {
   }
 
   .page__title {
-    // padding-bottom: 3rem;
     font-weight: 600;
   }
 
-  .page__lead {
-    // padding-bottom: 2rem;
-  }
 }
 
 .page__author {
@@ -184,14 +150,8 @@ section {
 
 .page__lead {
   font-weight: 200;
-  // margin-top: -20px;
   max-width: 100% !important;
-  // margin: 20px 10%;
-
-  // display: table-cell;
-  // vertical-align: center;
   padding-bottom: 2em;
-
 }
 
 
@@ -213,12 +173,18 @@ p.page__meta {
     font-weight: 400;
   }
 
+  h4 {
+    font-size: $type-size-2;
+    text-align: center;
+    // background-color: #434A54;
+    color: #ffffff;
+    font-weight: 400;
+  }
+
 }
 
 
-.page__section-title {
-  // text-transform: uppercase;
-}
+
 
 .page__section-diagram {
   text-align: center;
@@ -235,7 +201,7 @@ p.page__meta {
   text-align: center;
 
   h1 {
-    font-size: $type-size-2; 
+    font-size: $type-size-2;
   }
 }
 
@@ -317,6 +283,20 @@ section {
   color: #B0B0B0;
 }
 
+.usage {
+  font-family: $sans-serif;
+  color: #ffffff;
+}
+
+.usage__stat {
+  display: inline-block;
+  text-align: left;
+
+  &:not(:last-of-type) {
+    margin-right: 5em;
+  }
+}
+
 #testimonial-wrapper {
   background-color: #83A3B6;
   margin-left: 0;
@@ -324,15 +304,64 @@ section {
   padding-top: 3rem;
   padding-bottom: 5rem;
 
+  .footprint__title {
+    width: 100%;
+    color: #ffffff;
+    margin-top: 0;
+    border-bottom: none;
+    margin-bottom: 1.5em;
+  }
+
+  .usage {
+    font-size: 1.25rem;
+    margin-bottom: 1.25rem;
+    display: flex;
+    justify-content: center;
+  }
+
+  .usage__number {
+    font-size: 2.5em;
+    line-height: 1;
+  }
+
+  .usage__type {
+    margin-bottom: 2rem;
+    font-size: 1em;
+    text-transform: uppercase;
+
+    &::before {
+      content: '\A';
+      white-space: pre;
+    }
+  }
+
+  .usage__icon {
+    font-size: 4.3em;
+    float: left;
+    padding: 0.1em;
+    margin-top: -0.1em;
+  }
+
+  .usage__icon--factory {
+    width: 1.1em;
+    height: 1.1em;
+    padding: 0.1em;
+    vertical-align: baseline;
+
+    /* We're hacking around a bit with this because it's a custom icon. A good thing
+     * to do in the future would be to check if it can be converted to an icon
+     * font and combined with font-awesome. Or to adopt a more standard icon. */
+    margin-bottom: -0.05em;
+  }
+
   .testimonial {
     margin-bottom: 3rem;
     text-align: center;
     color: #ffffff;
 
     &__quote {
-      font-size: 1.4rem;    
+      font-size: 1.4rem;
     }
-    
 
     &__role {
       color: #E6EAED;
@@ -358,7 +387,63 @@ section {
     display: none;
   }
 
+}
 
+@media only screen and (max-width: 600px) {
+  #testimonial-wrapper {
+
+    .page__section-subtitle {
+      display: block;
+    }
+
+    .usage__stat {
+      display: block;
+      margin-right: 2em;
+      margin-bottom: 1em;
+      font-size: 1em;
+      min-width: 5em;
+
+      &:not(:last-of-type) {
+        margin-bottom: 2em;
+      }
+    }
+
+    .usage {
+      margin-left: 0;
+      flex-wrap: wrap;
+    }
+  }
+}
+
+
+@media only screen and (min-width: 1200px) {
+  #testimonial-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 1.5em;
+
+    .page__section-subtitle {
+      display: block;
+    }
+
+
+    .usage {
+      margin-left: 0;
+    }
+
+    .usage__stat {
+      margin-right: 5em;
+    }
+
+    .testimonial {
+      max-width: 35%;
+    }
+
+    .section-action {
+      width: 100%;
+    }
+  }
 }
 
 
@@ -527,24 +612,24 @@ section .archive__industries {
 
   }
 
-  .btn--events.is-checked { 
+  .btn--events.is-checked {
     background-color: #FFC700;
     color: #ffffff !important;
 
   }
 
-  .btn--news.is-checked { 
+  .btn--news.is-checked {
     background-color: #9E5697;
     color: #ffffff !important;
-    
+
   }
 
-  .btn--publications.is-checked { 
+  .btn--publications.is-checked {
     background-color: #68BF1C;
     color: #ffffff !important;
-    
+
   }
-  
+
 }
 
 .sidebar {
@@ -653,7 +738,7 @@ section .archive__industries {
 
 @media only screen and (min-width: 600px) {
 
-  .team__item { 
+  .team__item {
     @include gallery(6 of 12);
   }
 }
@@ -678,7 +763,7 @@ section .archive__industries {
   width: span(3);
   float: left;
   padding-top: 0.65rem;
-  
+
   img:last-child{
     display:none;
   }
@@ -687,7 +772,7 @@ section .archive__industries {
     display:none;
   }
 
-  &:hover img:last-child{ 
+  &:hover img:last-child{
     display:inline-block;
   }
 
@@ -763,7 +848,7 @@ section .archive__industries {
 
 }
 
-.page__footer-copyright { 
+.page__footer-copyright {
   width: span(12);
   display: inline-block;
   text-align: center;
@@ -796,55 +881,15 @@ section .archive__industries {
   // background-color: red;
 }
 
-// Branding 
 
-// .brand {
-//   display: inline-flex;
-//   padding-left: 1rem;
-//   padding-top: 0.5rem;
+// Branding
 
-
-//   a {
-//     text-decoration: none;
-//     color: #333333;
-//   }
-
-//   h1 {
-//     font-size: $type-size-5;
-//     line-height: 2em;
-//     font-family: 'DINLight', sans-serif;
-//     text-transform: uppercase;
-//     font-weight: 200;
-//     cursor: default;
-//     opacity: 0.6;
-//     color: #000000;
-//     cursor: pointer;
-//   }
-
-//   img {
-//     width: 54px;
-//     padding-right: 6px;
-//     padding-top: 4px;
-//   }
-
-
-// }
-
-
-// Branding 
-
-
-.brand {
-
-}
 .logo {
   float: left;
   padding-top: 7px;
   padding-right: 5px;
   img {
     width: 54px;
-    // padding-right: 6px;
-    // padding-top: 4px;
   }
 
 }
@@ -926,7 +971,7 @@ section .archive__industries {
     padding-right: 2px;
   }
 
-  .intro { 
+  .intro {
     float: left;
     width: span(12);
     padding-right: 30px;
