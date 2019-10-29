@@ -9,7 +9,7 @@ type: Presentation
 source: https://www.downstream-asia.com/
 keywords: Asian Downstream Summit, Operational Excellence, Oil and Gas, Digital Transformation, Process Safety
 ---
-> Hear how two of the world's largest oil&gas and chemical majors are using DRA software to avoid unplanned shutdowns - achieving exceptional performance and savings.
+> Two of the world's largest oil&gas and chemical majors are using DRA software to avoid unplanned shutdowns - achieving exceptional performance and savings.
 
 On Day One, Sr. Operations Executive (Refinery) will present their widely-successful digital transformation and sustenance initiatives realized using DRA.  
 
