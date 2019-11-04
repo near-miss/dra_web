@@ -9,15 +9,15 @@ type: Presentation
 source: https://www.downstream-asia.com/
 keywords: Asian Downstream Summit, Operational Excellence, Oil and Gas, Digital Transformation, Process Safety
 ---
-> Two of the world's largest oil&gas and chemical majors discuss how they are achieving exceptional performance and savings using DRA.
+> Two of the world's largest oil&gas and chemical majors discussed how they achieved exceptional performance and savings using DRA.
 
-On Day One, Sr. Operations Executive (Refinery) will present their widely-successful digital transformation and sustenance initiatives realized using DRA.  
+On Day One, Sr. Operations Executive (Refinery) presented their widely-successful digital transformation and sustenance initiatives realized using DRA.  
 
-On Day Two, Technology Engineer (Chemicals) will discuss their AI and machine learning strategy that led to improved plant performance and present lessons learned and case studies using DRA.
+On Day Two, Technology Engineer (Chemicals) discussed their AI and machine learning strategy that led to improved plant performance and present lessons learned and case studies using DRA.
 
-Along with the above customer case studies, NMM’s EVP of South-East Asia, Datuk Kamarudin Zakaria, will present a technical presentation on how operating companies are adopting new data analytics technologies to achieve operational excellence. 
+Along with the above customer case studies, NMM’s EVP of South-East Asia, Datuk Kamarudin Zakaria, presented a technical presentation on how operating companies are adopting new data analytics technologies to achieve operational excellence. 
 
-NMM is pleased to be a Silver Sponsor of the ADS conference (4th year in a row). 
+NMM was pleased to be a Silver Sponsor of the ADS conference (4th year in a row). 
 
 **About 2019 Asian Downstream Summit**
 
