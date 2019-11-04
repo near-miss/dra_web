@@ -9,7 +9,7 @@ type: Presentation
 source: https://www.downstream-asia.com/
 keywords: Asian Downstream Summit, Operational Excellence, Oil and Gas, Digital Transformation, Process Safety
 ---
-> Two of the world's largest oil&gas and chemical majors discussed how they achieved exceptional performance and savings using DRA.
+> Two of the world's largest oil&gas and chemical majors discussed how they are achieving exceptional performance and savings using DRA.
 
 On Day One, Sr. Operations Executive (Refinery) presented their widely-successful digital transformation and sustenance initiatives realized using DRA.  
 
