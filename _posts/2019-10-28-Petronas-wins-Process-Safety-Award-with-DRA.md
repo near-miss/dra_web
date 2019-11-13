@@ -1,5 +1,5 @@
 ---  
-title: Petronas wins Process Safety Award Using DRA, saves USD 2.5 million
+title: Petronas wins Process Safety Award with DRA, saves USD 2.5 million
 date: 2019-11-12
 author: 
 publication: 2019 IChemE Malaysia Awards
@@ -9,7 +9,7 @@ type: Customer News
 source: https://www.thechemicalengineer.com/news/petronas-triumphs-at-icheme-s-malaysia-awards-2019/
 keywords: Petronas, IChemE Malaysia Awards, Process Safety, DRA, Oil and Gas, Savings
 ---
-Oil and gas company Petronas scooped four out of the eight trophies given at 2019 IChemE’s Malaysia Awards for outstanding achievements in the profession in Malaysia. One of their awards was due to their work with Near-Miss Management’s Dynamic Risk Analyzer (DRA).
+Oil and gas company, Petronas, scooped four out of the eight trophies given at 2019 IChemE’s Malaysia Awards for outstanding achievements in the profession in Malaysia. One of their awards was due to their work with Near-Miss Management’s Dynamic Risk Analyzer (DRA).
 
 Petronas dominated in the Oil & Gas Award and Process Safety Award categories.
 
