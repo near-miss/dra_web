@@ -9,7 +9,7 @@ type: Company News
 source: https://www.aiche.org/about/press/releases/11-11-2019/american-institute-chemical-engineers-names-new-officers-board-2020
 keywords: AIChE, Leadership, President
 ---
-The American Institute of Chemical Engineers (AIChE) recently announced that Ms. Deborah L. Grubbe will become their President in 2021.
+The American Institute of Chemical Engineers (AIChE) recently announced that Ms. Deborah L. Grubbe has been elected to become the President in 2021.
 
 Deb currently serves as Near-Miss Management’s Chief Marketing Officer. She is the former VP of Group Safety for BP, which had its two safest years ever under her watch. She spent 27 years at DuPont, where she held corporate director positions in safety, operations and engineering. From 2003-2012, she served on the NASA Aerospace Safety Advisory Panel, and was a consultant to the Columbia Shuttle Accident Investigation Board. She is a Trustee of the National Safety Council and is a former Chair of the NIST Visiting Committee for Advanced Technology. In 2010, she was awarded an Honorary Doctorate in Engineering from Purdue.
 
