@@ -80,3 +80,16 @@ Generate stylesheets
 
 ```
 
+## Tips
+
+### Update the copyright year on January 1st
+
+The site is built into static HTML, so it needs to be rebuilt every year to
+update the copyright footers.
+
+```
+git checkout master
+git pull
+git commit --allow-empty -m 'chore: update yearly dates :)'
+git push
+```
