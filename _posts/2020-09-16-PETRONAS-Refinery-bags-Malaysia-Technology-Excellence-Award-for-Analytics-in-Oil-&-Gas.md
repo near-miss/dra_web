@@ -1,5 +1,5 @@
 ---
-title: PETRONAS Refinery bags Malaysia Technology Excellence Award for Analytics in Oil & Gas
+title: PETRONAS Refinery bags Malaysia Technology Excellence Award, realizes 99+% plant reliability, USD 1.8 million savings using DRA
 date: 2020-09-16
 author: 
 publication: Singapore Business Review
@@ -7,7 +7,7 @@ logo: sbr
 category: News
 type: Customer News
 source: https://sbr.com.sg/co-written-partner/more-news/petronas-penapisan-sdn-bhd-bags-malaysia-technology-excellence-award
-keywords: PETRONAS, Malaysia Technology Excellence Award, Analytics, Oil and Gas
+keywords: PETRONAS, Malaysia Technology Excellence Award, Analytics, Oil and Gas, Plant Reliability
 ---
 PETRONAS Penapisan Terengganu Sdn Bhd (PPTSB), also known as PETRONAS Kertih Refinery, scored the ‘Analytics – Oil & Gas’ award at the recent Malaysia Technology Excellence Awards, presented by Singapore Business Review – demonstrating that the company has unlocked new ways that achieve Operational Excellence through Digital Transformation.
 
