@@ -1,5 +1,5 @@
 ---
-title: PETRONAS Refinery bags Malaysia Technology Excellence Award, realizes 99+% plant reliability, USD 1.8 million savings using DRA
+title: DRA Helps PETRONAS Refinery realize 99+% plant reliability, USD 1.8 million savings
 date: 2020-09-16
 author: 
 publication: Singapore Business Review
