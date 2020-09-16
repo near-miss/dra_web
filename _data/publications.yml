@@ -225,3 +225,11 @@ AIChE Academy:
 AIChE:
   name: "American Institute of Chemical Engineers"
   logo: aiche
+
+National Academies of Science, Engineering, and Medicine:
+  name: "National Academies of Science, Engineering, and Medicine"
+  logo: nasem
+  
+Singapore Business Review:
+  name: "Singapore Business Review"
+  logo: sbr
