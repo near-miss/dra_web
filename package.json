@@ -29,7 +29,7 @@
     "uglify-js": "^2.6.1"
   },
   "scripts": {
-    "scss": "sass --style compressed assets/_scss assets/css",
+    "scss": "sass --style compressed assets/_scss/main.scss assets/css/main.css",
     "autoprefixer": "postcss -u autoprefixer -b \">, 5%, ie 9\" -r assets/css/*",
     "uglify": "uglifyjs assets/js/vendor/jquery/jquery-1.12.4.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/plugins/stickyfill.min.js assets/js/plugins/isotope.pkgd.js assets/js/_main.js assets/js/plugins/cells-by-row.js assets/js/_custom.js -c -m -o assets/js/main.min.js",
     "watch:css": "onchange \"assets/_scss/**/*.scss\" -- npm run build:css",
