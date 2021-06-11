@@ -89,7 +89,7 @@ if (document.getElementById('contact-form')) {
       formValues[field.name] = field.value;
     });
     $.ajax({
-      url: 'https://formspree.io/info@nearmissmgmt.com',
+      url: 'https://formspree.io/f/xbjqydvv',
       method: 'POST',
       data: formValues,
       dataType: 'json',
