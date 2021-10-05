@@ -3,7 +3,7 @@ title: Malaysia LNG shares the transformative impact DRA has had on their operat
 date: 2021-09-21
 author: 
 publication: ISA Digital Transformation Virtual Conference Malaysia
-logo: ISA
+logo: isa
 category: News
 type: Customer Presentation
 source: https://virtualdtmalaysia.vfairs.com/en/
