@@ -23,13 +23,13 @@ This presentation showed the implementation and application of DRA in MLNG, its 
 
 HIGHLIGHTS FROM THE PRESENTATION:
 
+•	**In the 1st year of DRA implementation, the product losses were reduced 8 fold - from 3.5 cargoes (2018) to 0.4 cargo (2019).**
+
 •	It takes total management commitment to change employee behavior, just providing a digital tool is not enough.
 
 •	Multidisciplinary effort increases the likelihood of digital tool's (DRA) success. 
 
 •	The right role modeling by leaders, such as DRA Quarterly Engagement with the company CEO, is very important.
-
-•	In the 1st year of DRA implementation, **the product losses were reduced 8 fold, from 3.5 to 0.4 cargo loads**.
 
 •	Clearly defined work process, combined with periodic assessment of DRA effectiveness by reviewing loss event data, will help achieve continuous success.  
 
