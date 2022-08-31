@@ -11,7 +11,7 @@ keywords: presentation, aiche, ammonia plants, safety
 ---
 Dyno Nobel and Near-Miss Management will co-present a paper at the 66th Annual Safety in Ammonia Plants and Related Facilities Symposium, in Chicago, IL from September 12-15, 2022.  
 
-Time: Wednesday, September 21, 2016, 8:30 - 9:00 am
+Time: Tuesday, September 13, 2022, 8:30 - 9:00 am
 
 **Presentation Overview**
 
