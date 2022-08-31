@@ -1,6 +1,6 @@
 ---
 title: "Improved Process Performance and Safety via Autonomous AI: Dyno Waggaman Experience"
-date: 2022-09-13
+date: 2022-08-31
 author: 
 publication: 66th Annual Safety in Ammonia Plants and Related Facilities Symposium
 logo: aiche2022
