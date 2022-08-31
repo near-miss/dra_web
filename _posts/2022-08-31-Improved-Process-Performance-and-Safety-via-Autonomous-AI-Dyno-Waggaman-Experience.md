@@ -4,7 +4,7 @@ date: 2022-08-31
 author: 
 publication: 66th Annual Safety in Ammonia Plants and Related Facilities Symposium
 logo: aiche2022
-category: News
+category: Events
 type: Presentation
 source: https://www.aiche.org/conferences/annual-safety-ammonia-plants-and-related-facilities-symposium/2022/technical-program
 keywords: presentation, aiche, ammonia plants, safety
