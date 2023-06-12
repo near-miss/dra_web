@@ -49,3 +49,5 @@ This web site contains links to other sites. Please be aware that we are not res
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 267-603-2378 or via email at info@nearmissmgmt.com.
+
+Updated June 12, 2023
