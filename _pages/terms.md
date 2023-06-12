@@ -36,7 +36,6 @@ Near-Miss Management LLC is not responsible for the contents of any linked site 
 
 These terms and conditions will be governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania, United States, without regard to any principles of conflicts of law. 
 
-
 **Complete Agreement**
 
 These terms and conditions represent the entire understanding relating to the use of the Site and prevail over any prior or contemporaneous, conflicting or additional, communications. Near-Miss Management LLC reserves the right to revise these terms and conditions at any time without notice by updating this posting. Your continued use of the Site after any such changes constitutes your acceptance of the new Terms of Service. If you do not agree to any of this Agreement or any changes to this Agreement, please do not use, access or continue to access the Site or discontinue any use of the Site immediately.
@@ -44,3 +43,5 @@ These terms and conditions represent the entire understanding relating to the us
 **Contact Us**
 
 If you have any questions about these Terms of Use, please contact us via telephone at 267-603-2378 or via email at info@nearmissmgmt.com.
+
+Updated June 12, 2023
