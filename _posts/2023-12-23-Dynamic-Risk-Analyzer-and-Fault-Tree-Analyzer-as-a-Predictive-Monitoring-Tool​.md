@@ -2,7 +2,7 @@
 title: "Dynamic Risk Analyzer and Fault Tree Analyzer as a Predictive Monitoring Tool​"
 date: 2023-12-15
 author: 
-publication: IChemE
+publication: Institution of Chemical Engineers (IChemE)
 logo: icheme2023
 category: Events
 type: Webinar
